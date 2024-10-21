@@ -1,0 +1,1038 @@
+{
+  "status": "OK",
+  "request_id": "5c194877-f390-477b-9f9e-e6a8e61daa98",
+  "parameters": {
+    "query": "react developer",
+    "page": 1,
+    "num_pages": 1
+  },
+  "data": [
+    {
+      "job_id": "88fhovr7e03FvcYOAAAAAA==",
+      "employer_name": "Turing.com",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTueXR0rzSC4PPRFY06j57Xm42ngtOlYTVqvbX9&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "Turing",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Remote React.js Developer Jobs",
+      "job_apply_link": "https://www.turing.com/jobs/remote-react-js-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.786,
+      "apply_options": [
+        {
+          "publisher": "Turing",
+          "apply_link": "https://www.turing.com/jobs/remote-react-js-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/java-full-stack-developer-remote-at-synergisticit-4052600752?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Salary.com",
+          "apply_link": "https://www.salary.com/job/paramount-software-solutions-inc/senior-power-bi-developer-remote/j202408230025419288707?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobgether",
+          "apply_link": "https://jobgether.com/offer/6708517d11e1c8f12d4a4cf5-senior-.net-developer-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "USA Remote Jobs",
+          "apply_link": "http://rdj026.66ghz.com/job/remote-react-js-developer-jobs-3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "USA Remote Job Mysmartpros",
+          "apply_link": "https://remote.mysmartpros.com/jobs/remote-react-js-developer-jobs/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remote Jobs In USA",
+          "apply_link": "https://remotejobs.trendingnewsgo.com/job/remote-react-js-developer-jobs-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talentify",
+          "apply_link": "https://www.talentify.io/job/net-developer-2-remote-washington-district-of-columbia-wex-r15460?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "About the role:\nWork from home with top U.S. software companies and earn in U.S. dollars. At Turing, we are looking for React.js developers who will be responsible for the entire web development process and deliver highly scalable, customer-centric, and performant web applications.\n\nAbout Turing.com:\nTuring’s mission is to unleash the world’s untapped human potential. We use AI to source, evaluate, hire, onboard, and manage engineers remotely (including the HR and compliance aspects) in a bigger platform that we call the “Talent Cloud”.\n\nWe recently achieved unicorn status with a valuation of $1.1B, after raising over $140M in financing over four rounds of funding. 900+ companies including companies like Johnson & Johnson, Pepsi, Dell, Disney +, and Coinbase have hired Turing developers.\n\nResponsibilities:\n- Design & build scalable APIs by writing clean, efficient, and reusable code\n- Create components, and implement pages and flows designed using UI/UX designers\n- Develop highly efficient user interface components\n- Contribute or suggest new initiatives to help your team make innovative choices\n- Design, develop, review & test apps in collaboration with cross-functional teams\n- Analyze, control, and improve the quality of the code\n\nRequirements:\n- Bachelor’s/Master’s degree in Computer Science (or equivalent experience)\n- 3+ years of web development experience (rare exceptions for highly skilled candidates)\n- Proficiency in React.js, JavaScript, HTML, and CSS\n- Experience with REST APIs, third-party libraries & full life cycle of web development\n- Fluency in English to collaborate with engineering managers\n- Work full-time (40 hours/week) with a 4-hour overlap with US time zones\n- Ability to write clean, reliable, and highly maintainable code\n\nPreferred skills:\n- Experience in cross-browser compatibility and the responsive design of applications\n- Proficient understanding of code versioning tools, such as Git\n- Expert understanding of server-side logic and front-end performance optimization\n- Experience in Unix/Linux environments, including basic commands and scripting\n- Experience with project management and working directly with clients\n- Experience writing unit test cases will be an advantage\n\nWhat we offer:\n- Elite U.S. Jobs\n- Long-term, full-time opportunities\n- Flexibility to work from anywhere in the world\n- Better compensation\n- Career growth\n- Exclusive Developer Community\n- Upskilling workshops\n- Career development sessions\n- Networking meetups\n- Referral programs\n\nOnce you join Turing, you'll never have to apply for another job!",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1728691200,
+      "job_posted_at_datetime_utc": "2024-10-12T00:00:00.000Z",
+      "job_city": "Palo Alto",
+      "job_state": "CA",
+      "job_country": "US",
+      "job_latitude": 37.45306,
+      "job_longitude": -122.11327,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3D88fhovr7e03FvcYOAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-10-31T00:00:00.000Z",
+      "job_offer_expiration_timestamp": 1730332800,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": "36",
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": [
+        "React.js",
+        "HTML",
+        "JavaScript",
+        "CSS"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "true",
+        "degree_preferred": "true",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Bachelor’s/Master’s degree in Computer Science (or equivalent experience)",
+          "3+ years of web development experience (rare exceptions for highly skilled candidates)",
+          "Proficiency in React.js, JavaScript, HTML, and CSS",
+          "Experience with REST APIs, third-party libraries & full life cycle of web development",
+          "Fluency in English to collaborate with engineering managers",
+          "Work full-time (40 hours/week) with a 4-hour overlap with US time zones",
+          "Ability to write clean, reliable, and highly maintainable code"
+        ],
+        "Responsibilities": [
+          "Design & build scalable APIs by writing clean, efficient, and reusable code",
+          "Create components, and implement pages and flows designed using UI/UX designers",
+          "Develop highly efficient user interface components",
+          "Contribute or suggest new initiatives to help your team make innovative choices",
+          "Design, develop, review & test apps in collaboration with cross-functional teams",
+          "Analyze, control, and improve the quality of the code"
+        ],
+        "Benefits": [
+          "Elite U.S. Jobs",
+          "Long-term, full-time opportunities",
+          "Flexibility to work from anywhere in the world",
+          "Better compensation",
+          "Career growth",
+          "Exclusive Developer Community",
+          "Upskilling workshops",
+          "Career development sessions",
+          "Networking meetups",
+          "Referral programs"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "OciyjTb-0EWLzR-LAAAAAA==",
+      "employer_name": "Zenfreed, LLC",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "ZipRecruiter",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React Developer - Front End Developer",
+      "job_apply_link": "https://www.ziprecruiter.com/c/Zenfreed,-LLC/Job/React-Developer-Front-End-Developer/-in-Lansing,MI?jid=80ae6ca0a0f825ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.7316,
+      "apply_options": [
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Zenfreed,-LLC/Job/React-Developer-Front-End-Developer/-in-Lansing,MI?jid=80ae6ca0a0f825ff&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/react-developer-front-end-developer-at-zenfreed-llc-4053424516?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Monster",
+          "apply_link": "https://www.monster.com/job-openings/react-developer-front-end-developer-lansing-mi--faed24ac-0874-44c4-8604-0d45c3d4764a?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Email Service",
+          "apply_link": "https://zenfreed.zohorecruit.com/jobs/Careers/638583000004194008/React-Developer---Front-End-Developer?source=Google&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "React Jobs",
+          "apply_link": "https://reactjsjob.com/job/2na1TNju2LWcbDgPgmhSBZsejsB?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/us-mi-lansing-react-developer-front-end-zenfreed-hiring-now-job-immediately?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "As a frontend developer, responsibilities include but not limited to working with development project teams, UI/UX designers and Business analysts to develop and maintain reusable UI components that are accessible, performant, scalable, and robust. Must be familiar with WCAG 2.1, ADA compliance and responsive design. All development will be tested by the developer for accessibility using JAWS screen reader along with multiple browser plugins. Must have excellent communication and teamwork skills. Be self-directed, committed and a quick learner.\n\nRequirements5 years experience:\n• React.js\n• HTML5, CSS Frameworks, including Bootstrap\n• ADA, WCAG 2.1, Section 508 compliance policies\n• User Experience design principles and standards\n• Programming application user interfaces using current JavaScript/Front-end frameworks building and implementing reusable UI components and front-end libraries\n\n3 years experience:\n• Java 8, this includes using relevant IDE tools such as Eclipse/Jboss Developer Studio\n\n2 years experience:\n• JPA framework\n• Spring framework\n• Spring Boot and Spring Data\n• Working within an Agile development environment\n\nDesired Skills\n• JBOSS Enterprise environment experience\n\nMinimum Education\n• Some college\n\nLocation\n• Local candidates only (within Michigan)\n• Position is a hybrid schedule with 2 days per week required to be on-site (Tuesday and Wednesday)\n• Working hours Monday-Friday, approximately 8:00 a.m. to 5:00 p.m. (flexible scheduling is possible)\n\nAdditional Requirements\n• Must be authorized to work in the United States; We are unable to offer sponsorships at this time\n• Must undergo a background check and drug screening for employment.\n\nEmployment Terms\n• This is a W2 position\n• 40 hrs per week\n• HYBRID schedule - you are required to be onsite 2 days per week, Tuesday and Wednesday\n\nAbout Zenfreed\n\nAt Zenfreed, we are more than an IT company. We bridge the gap between people wanting to do the work they were meant to do and organizations needing the right talent.\n\nWe are dedicated to building a diverse, inclusive and authentic workplace, so if you’re excited about this role but your past experience doesn’t align perfectly with every qualification in the job description, we encourage you to apply anyway. You may be just the right candidate for this or other roles.\n\nBenefitsWe understand a comprehensive benefits package is crucial to employment satisfaction. We offer medical, dental and vision coverage options for all employees.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1729189112,
+      "job_posted_at_datetime_utc": "2024-10-17T18:18:32.000Z",
+      "job_city": "Lansing",
+      "job_state": "MI",
+      "job_country": "US",
+      "job_latitude": 42.732536,
+      "job_longitude": -84.555534,
+      "job_benefits": [
+        "health_insurance",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DOciyjTb-0EWLzR-LAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-17T00:00:00.000Z",
+      "job_offer_expiration_timestamp": 1731801600,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": "60",
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Must be familiar with WCAG 2.1, ADA compliance and responsive design",
+          "All development will be tested by the developer for accessibility using JAWS screen reader along with multiple browser plugins",
+          "Must have excellent communication and teamwork skills",
+          "Be self-directed, committed and a quick learner",
+          "React.js",
+          "HTML5, CSS Frameworks, including Bootstrap",
+          "ADA, WCAG 2.1, Section 508 compliance policies",
+          "User Experience design principles and standards",
+          "Programming application user interfaces using current JavaScript/Front-end frameworks building and implementing reusable UI components and front-end libraries",
+          "Java 8, this includes using relevant IDE tools such as Eclipse/Jboss Developer Studio",
+          "JPA framework",
+          "Spring framework",
+          "Spring Boot and Spring Data",
+          "Working within an Agile development environment",
+          "Must be authorized to work in the United States; We are unable to offer sponsorships at this time",
+          "Must undergo a background check and drug screening for employment"
+        ],
+        "Responsibilities": [
+          "As a frontend developer, responsibilities include but not limited to working with development project teams, UI/UX designers and Business analysts to develop and maintain reusable UI components that are accessible, performant, scalable, and robust",
+          "Working hours Monday-Friday, approximately 8:00 a.m. to 5:00 p.m. (flexible scheduling is possible)"
+        ],
+        "Benefits": [
+          "We offer medical, dental and vision coverage options for all employees"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": [
+        "15-1134.00: Web Developers"
+      ],
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "FA90zXf1N9fV4JfLAAAAAA==",
+      "employer_name": "webfx.com",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "Lever",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React Developer",
+      "job_apply_link": "https://jobs.lever.co/webfx/a0edf0cb-108b-4e9a-b8e6-76052540bbc2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.8834,
+      "apply_options": [
+        {
+          "publisher": "Lever",
+          "apply_link": "https://jobs.lever.co/webfx/a0edf0cb-108b-4e9a-b8e6-76052540bbc2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=48cb649b823c9810&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Built In",
+          "apply_link": "https://builtin.com/job/react-developer/2588349?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/react-developer-webfx-com-ann-arbor-mi_77398034?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talent.com",
+          "apply_link": "https://www.talent.com/view?id=48378dc1b63b&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "BeBee",
+          "apply_link": "https://us.bebee.com/job/1dd1eeed3857aa92c31217927fd22e3e?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/ann-arbor/michigan/software_development/3424891498/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Simplify Jobs",
+          "apply_link": "https://simplify.jobs/p/ce1a0aee-1a44-46f0-8f26-91c29bbc885f/React-Developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Hi there! We're WebFX, a full-service digital marketing agency based in the US. We've been named the Best Place To Work in Pennsylvania 9 times in a row and we'd love to meet you! We are a fast-growing company that has doubled in size over the past 5 years, with talented team members now based around the globe (and representing 18+ different countries!). While we are growing at a rapid rate, we are committed to growing strategically and sustainably, and that starts with growing our team of the #BestCoworkers - that’s where you come in!\n\nWe're looking for talented professionals to join our Ann Arbor office location - home to the Nutshell team! Nutshell is an award-winning CRM and email marketing platform, and as of 2022, WebFX and Nutshell have officially joined forces. Our teams work together closely to provide the very best products and services to our clients, and we're on the hunt for people just like you, who take pride in their work and want to be part of a company that does too.\n\nYou Might Be a Great Fit For This Position if You Have…\n\nA Bachelor’s Degree\n\nSuccessful Nutshellers in this role have majored in computer science and related fields\n\nGPA above 3.4\n\nA Few Related Skills and Experiences\n\n(This is an entry-level role, and experience in every one of these areas is not required - training is provided on all core platforms, tools, and technologies you will need to know! But the following skills/experience are awesome to have, and will help get your career off to a running start:):\n\nPart-time/volunteer/internship programming experience is a must\n\nDevelopment experience in front-end web development —Javascript, React, etc\n\nWorking knowledge of modern software development frameworks, including server-side MVC (e.g. Symfony, Rails)\n\nStrong background in SQL and relational databases\n\nBackground and opinions on HTTP API design—we’ve got a blend of JSON-RPC, REST, and GraphQL\n\nExperience with unit testing and continuous integration\n\nAny of these Signature Nutsheller Traits!\n\nYou’re passionate about web/software development - you even find yourself spending your free time tinkering and learning new technologies!\n\nYou’re committed to delivering high-quality software\n\nYou enjoy variety, and like the challenge of working on multiple projects\n\nYou’re comfortable working both independently and as part of a team\n\nYou take direction well, but aren’t afraid to take initiative and make decisions\n\nYou see yourself as a problem-solver, and face challenges with a can-do mindset\n\nYou put the customer and their goals first\n\nYou have an interest in the web and stay up-to-date on new and developing technologies\n\nYou are a professional, dependable, and independent worker with a solid work ethic\n\nYou’re self-motivated, thrive on challenges, and enjoy getting things done\n\nYou have an eye for detail and dedication to high-quality work\n\nYou have an exceptional level of follow-through\n\nYou possess excellent time/project management skills\n\nYou work with a sense of urgency and can consistently meet deadlines\n\nYou are an outstanding communicator and possess strong interpersonal skills\n\nYou are a lifelong learner who loves to grow and stretch outside of your comfort zone, and are always looking to improve your skills\n\nIf any of these sound like you, then we want to hear from you! We are committed to growing 1% better every day, and we believe working at Nutshell could quite possibly make your life 1(00)% better!\n\nAbout the Job\n\nAs a React Developer, you’ll team up with others in various stacks at Nutshell. You can hone your skills alongside a frontend team that writes for both web and mobile in React + React Native, while you build the GraphQL and cloud infrastructure that powers our app. You’ll work with the data we store in MySQL and Solr on AWS. And with our continuous integration and rapid development stack, you’ll deploy tested, peer-reviewed code to production on your first day.\n\nOur technology stack includes:\n\n-PHP, Symfony, Nginx, MySQL, Solr, Gearman, and more, all running on AWS, managed with Ansible\n\n-React, React Native, Redux, and Webpack for web and mobile frontend tooling\n\n-Docker for local development\n\n-GitHub for code management and review\n\n-Continuous integration via Jenkins\n\nWhat You’ll Get From Us!\n\nAs a product team\n\nNutshell’s product team offers the opportunity to learn from a smart group of teammates who support and drive one another to succeed. Today, our product group comprises nine designers and engineers. Some have decades of experience, some are just out of college with a CS degree, and a few have entered software engineering as a second career.\n\nAs a company\n\n-Opportunities to learn and thrive in a friendly, growing SaaS business\n\n-A commitment to an inclusive environment that supports our diverse team\n\n-A connection to Ann Arbor’s software and startup community through our network of friends and partners\n\n-A modern office located as an anchor tenant at Cahoots in downtown Ann Arbor\n\n-Flexibility in working modes and locations, as we regroup at our office, and support other distributed team members\n\n-The sincerity and commitment of an established company: excellent health benefits, 401(k) matching, an experienced leadership team, and a profitable, growing financial position\n\n-The opportunity to help thousands of small businesses each day\n\n-Trust and autonomy to ensure you can be the best version of you\n\nPotential promotional path for Jr. Web Developer:\n\nWeb Developer\n\nAssociate Web Developer\n\nAssociate Lead Web Developer\n\nLead Web Developer\n\nSr. Web Developer\n\nCompensation\n\nNegotiable based on work experience\n\nPotential additional bonus may be offered for GPA's of 3.8+ or graduating with high honors\n\nCheck out our culture on social media:\n\nInstagram\n\nTwitter\n\nFacebook\n• You don't need to apply more than once even if you're interested in multiple positions - you can simply let us know! We consider all open roles when reviewing resumes and applications!\n\nNutshell is an Equal Opportunity Employer, committed to providing and fostering an inclusive environment where all people, including women, minorities, LGBTQ+ and other underrepresented groups are supported, respected, and encouraged to excel within STEM careers. Our goal as an organization is to empower our team to achieve their personal best, bring people together, and provide equal opportunity to do so regardless of race, age, gender, sexual orientation, religion, physical ability or disability, or political affiliation. You can learn more on our parent company's website here!!",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1714608000,
+      "job_posted_at_datetime_utc": "2024-05-02T00:00:00.000Z",
+      "job_city": "Ann Arbor",
+      "job_state": "MI",
+      "job_country": "US",
+      "job_latitude": 42.280827,
+      "job_longitude": -83.743034,
+      "job_benefits": [
+        "retirement_savings",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DFA90zXf1N9fV4JfLAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "true",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Successful Nutshellers in this role have majored in computer science and related fields",
+          "GPA above 3.4",
+          "(This is an entry-level role, and experience in every one of these areas is not required - training is provided on all core platforms, tools, and technologies you will need to know!",
+          "Part-time/volunteer/internship programming experience is a must",
+          "Development experience in front-end web development —Javascript, React, etc",
+          "Working knowledge of modern software development frameworks, including server-side MVC (e.g",
+          "Symfony, Rails)",
+          "Strong background in SQL and relational databases",
+          "Experience with unit testing and continuous integration",
+          "You’re passionate about web/software development - you even find yourself spending your free time tinkering and learning new technologies!",
+          "You enjoy variety, and like the challenge of working on multiple projects",
+          "You’re comfortable working both independently and as part of a team",
+          "You take direction well, but aren’t afraid to take initiative and make decisions",
+          "You see yourself as a problem-solver, and face challenges with a can-do mindset",
+          "You put the customer and their goals first",
+          "You have an interest in the web and stay up-to-date on new and developing technologies",
+          "You are a professional, dependable, and independent worker with a solid work ethic",
+          "You’re self-motivated, thrive on challenges, and enjoy getting things done",
+          "You have an eye for detail and dedication to high-quality work",
+          "You have an exceptional level of follow-through",
+          "You possess excellent time/project management skills",
+          "You work with a sense of urgency and can consistently meet deadlines",
+          "You are an outstanding communicator and possess strong interpersonal skills",
+          "You are a lifelong learner who loves to grow and stretch outside of your comfort zone, and are always looking to improve your skills",
+          "React, React Native, Redux, and Webpack for web and mobile frontend tooling",
+          "Some have decades of experience, some are just out of college with a CS degree, and a few have entered software engineering as a second career",
+          "Associate Lead Web Developer"
+        ],
+        "Responsibilities": [
+          "You’ll work with the data we store in MySQL and Solr on AWS",
+          "Flexibility in working modes and locations, as we regroup at our office, and support other distributed team members"
+        ],
+        "Benefits": [
+          "The sincerity and commitment of an established company: excellent health benefits, 401(k) matching, an experienced leadership team, and a profitable, growing financial position",
+          "The opportunity to help thousands of small businesses each day",
+          "Negotiable based on work experience",
+          "Potential additional bonus may be offered for GPA's of 3.8+ or graduating with high honors"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "a9fhfKs4TfHL1odbAAAAAA==",
+      "employer_name": "Insight Global",
+      "employer_logo": "https://images.squarespace-cdn.com/content/5f7f984c3ca20d1d55b276f7/1619793549819-L54X3W9Z5RD277UPNH9S/IGLogoPublic.png?content-type=image%2Fpng",
+      "employer_website": "http://www.insightglobal.com",
+      "employer_company_type": "Staffing",
+      "employer_linkedin": null,
+      "job_publisher": "Jooble",
+      "job_employment_type": "FULLTIME",
+      "job_title": "REMOTE React Developer",
+      "job_apply_link": "https://jooble.org/jdp/6986107768900026182?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.4782,
+      "apply_options": [
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/6986107768900026182?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "One of our largest clients is hiring for a couple front-end developers. On a day-to-day basis, youll be working with a team of 10 to modernize their application, which involves upgrading an outdated tech stack and implementing new client features. Your tasks will include coding in ReactJS, creating new features by leveraging and adjusting existing libraries, and contributing to a shared component library. Collaboration is key, as the team follows a buddy system for addressing questions and concerns, with regular standups, planning sessions, and code reviews to ensure smooth project progress. Youll also participate in analysis and design phases, all while ensuring code security, meeting standards, and focusing on accessibility. Strong communication and teamwork are essential in this task-oriented environment.\n\nWe are a company committed to creating diverse and inclusive environments where people can bring their full, authentic selves to work every day. We are an equal opportunity/affirmative action employer that believes everyone matters. Qualified candidates will receive consideration for employment regardless of their race, color, ethnicity, religion, sex (including pregnancy), sexual orientation, gender identity and expression, marital status, national origin, ancestry, genetic factors, age, disability, protected veteran status, military or uniformed service member status, or any other status or characteristic protected by applicable laws, regulations, and ordinances. If you need assistance and/or a reasonable accommodation due to a disability during the application or recruiting process, please send a request to View email address on click.appcast.io .\n\nTo learn more about how we collect, keep, and process your private information, please review Insight Global's Workforce Privacy Policy: .\n\nRequired Skills & Experience\n\n3+ years of professional experience as a React Developer\n\nProficiency in ReactJS, particularly in creating new features and adjusting existing ones by pulling from current libraries and using a shared component library\n\nStrong team player with excellent communication skills\n\nExperience with accessibility and ensuring work aligns with accessibility standards\n\nBenefit packages for this role will start on the 31st day of employment and include medical, dental, and vision insurance, as well as HSA, FSA, and DCFSA account options, and 401k retirement account access with employer matching. Employees in this role are also entitled to paid sick leave and/or other paid time off as provided by applicable law. Insight Global",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1729254188,
+      "job_posted_at_datetime_utc": "2024-10-18T12:23:08.000Z",
+      "job_city": "Philadelphia",
+      "job_state": "PA",
+      "job_country": "US",
+      "job_latitude": 39.952583,
+      "job_longitude": -75.16522,
+      "job_benefits": [
+        "retirement_savings",
+        "dental_coverage",
+        "health_insurance",
+        "paid_time_off"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3Da9fhfKs4TfHL1odbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-18T17:25:22.000Z",
+      "job_offer_expiration_timestamp": 1731950722,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": "36",
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "3+ years of professional experience as a React Developer",
+          "Proficiency in ReactJS, particularly in creating new features and adjusting existing ones by pulling from current libraries and using a shared component library",
+          "Strong team player with excellent communication skills",
+          "Experience with accessibility and ensuring work aligns with accessibility standards"
+        ],
+        "Responsibilities": [
+          "On a day-to-day basis, youll be working with a team of 10 to modernize their application, which involves upgrading an outdated tech stack and implementing new client features",
+          "Your tasks will include coding in ReactJS, creating new features by leveraging and adjusting existing libraries, and contributing to a shared component library",
+          "Collaboration is key, as the team follows a buddy system for addressing questions and concerns, with regular standups, planning sessions, and code reviews to ensure smooth project progress",
+          "Youll also participate in analysis and design phases, all while ensuring code security, meeting standards, and focusing on accessibility"
+        ],
+        "Benefits": [
+          "Benefit packages for this role will start on the 31st day of employment and include medical, dental, and vision insurance, as well as HSA, FSA, and DCFSA account options, and 401k retirement account access with employer matching",
+          "Employees in this role are also entitled to paid sick leave and/or other paid time off as provided by applicable law"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": "561311",
+      "job_naics_name": "Employment Placement Agencies"
+    },
+    {
+      "job_id": "G7e8Gqu8MqH_nox_AAAAAA==",
+      "employer_name": "Diverse Lynx",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1VeJ-13QmOtMzKA9tD3EqAjYEEE_de6dl51G3&s=0",
+      "employer_website": "http://www.diverselynx.com",
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "CONTRACTOR",
+      "job_title": "ReactJS Developer",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/reactjs-developer-at-diverse-lynx-4053810601?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6333,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/reactjs-developer-at-diverse-lynx-4053810601?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Indeed",
+          "apply_link": "https://www.indeed.com/viewjob?jk=6af147cab998fbf1&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Monster",
+          "apply_link": "https://www.monster.com/job-openings/reactjs-developer-princeton-nj--91d71f87-619f-414b-bc40-210637f1a674?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Talentify",
+          "apply_link": "https://www.talentify.io/job/reactjs-developer-princeton-new-jersey-us-diverse-lynx-24-35724?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "• Strong knowledge in React JS\n• Strong Experience in MUI\n• Strong Experience in Typescript and javascript\n• Good knowledge in vitest/Microfrontend framework (FDC3)\n• Candidate should understand java framework.\n• Good communication skills.\n• Digital : HYBRID App Development, Digital : HTML5-CSS3, Digital : ReactJS\n\nDiverse Lynx LLC is an Equal Employment Opportunity employer. All qualified applicants will receive due consideration for employment without any discrimination. All applicants will be evaluated solely on the basis of their ability, competence and their proven capability to perform the functions outlined in the corresponding role. We promote and support a diverse workforce across all levels in the company.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1729244030,
+      "job_posted_at_datetime_utc": "2024-10-18T09:33:50.000Z",
+      "job_city": "Princeton",
+      "job_state": "NJ",
+      "job_country": "US",
+      "job_latitude": 40.357296,
+      "job_longitude": -74.66722,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DG7e8Gqu8MqH_nox_AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-17T09:33:50.000Z",
+      "job_offer_expiration_timestamp": 1731836030,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": "false",
+        "professional_certification": "false",
+        "high_school": "false",
+        "associates_degree": "false",
+        "bachelors_degree": "true",
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Strong Experience in MUI",
+          "Strong Experience in Typescript and javascript",
+          "Good knowledge in vitest/Microfrontend framework (FDC3)",
+          "Candidate should understand java framework",
+          "Good communication skills"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "-HgYe3w0jL0Jej6IAAAAAA==",
+      "employer_name": "Itransition",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr2OJcjwhkoYCaFi8mxEvRfPhugJx4ldlFBSjO&s=0",
+      "employer_website": "http://www.itransition.com",
+      "employer_company_type": "Computer Services",
+      "employer_linkedin": null,
+      "job_publisher": "Itransition",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React Front-end Middle Developer",
+      "job_apply_link": "https://www.itransition.com/careers/react-front-end-middle-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.8423,
+      "apply_options": [
+        {
+          "publisher": "Itransition",
+          "apply_link": "https://www.itransition.com/careers/react-front-end-middle-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Mysmartpros",
+          "apply_link": "https://www.mysmartpros.com/tuition/job/middle-front-end-developer/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/react-front-end-middle-developer-itransition-JV_KO0,32_KE33,44.htm?jl=1009415449952&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "OfferPilot",
+          "apply_link": "https://offerpilot.ai/job/hc-4g21kr2krwea4t23sr1zxo1xm9tykdsdnhl6hvfq0x6sxpe7f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jora",
+          "apply_link": "https://us.jora.com/job/Middle-Front-end-Developer-1d89fec52864da68b85455d76344bd52?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Peter Guidi",
+          "apply_link": "http://peterguidi.com/workspread/job/middle-front-end-developer-react-at-corva-remote-734a4fbafb364068jktk-cGV0ZXJndW?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "We are looking for experienced developers that are willing to solve complex technical issues while developing high quality software systems using modern technologies.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1718362115,
+      "job_posted_at_datetime_utc": "2024-06-14T10:48:35.000Z",
+      "job_city": "Lakewood",
+      "job_state": "CO",
+      "job_country": "US",
+      "job_latitude": 39.645435,
+      "job_longitude": -105.080086,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3D-HgYe3w0jL0Jej6IAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": "541511",
+      "job_naics_name": "Custom Computer Programming Services"
+    },
+    {
+      "job_id": "W-RFl5cQQztYz40rAAAAAA==",
+      "employer_name": "SAR TECH LLC",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQotnlu-_mJ9N_wO_l4_ygUpYCSYbAkk1c0Vu68&s=0",
+      "employer_website": "http://www.sar-tech.net",
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "Dice.com",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React JS Developer",
+      "job_apply_link": "https://www.dice.com/job-detail/da2fab0b-1f7d-484a-82a1-e00316e0fc95?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.5697,
+      "apply_options": [
+        {
+          "publisher": "Dice.com",
+          "apply_link": "https://www.dice.com/job-detail/da2fab0b-1f7d-484a-82a1-e00316e0fc95?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/react-js-developer-metasoft-llc-JV_IC1143031_KO0,18_KE19,31.htm?jl=1009493842401&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Hi\n\nPlease find the below requirement and let me know your Interest\n\nPosition: React JS Developer\nLocation : Bentonville AR -On Site\n\nDuration: Contract\n\nClient: CTS/Walmart\n\nMust Have: React, UI\n\nHTML\n\nCSS\n\nJavaScript\n\nRest\n\nXML\n\nJSON\n\nLooking forward to hear and work with you soon\n\nThanks & Regards\n\nAshok Reddy\n\nUS IT Recruiter\n\nSAR TECH LLC",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1729100408,
+      "job_posted_at_datetime_utc": "2024-10-16T17:40:08.000Z",
+      "job_city": "Bentonville",
+      "job_state": "AR",
+      "job_country": "US",
+      "job_latitude": 36.372356,
+      "job_longitude": -94.21021,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DW-RFl5cQQztYz40rAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-16T22:53:40.000Z",
+      "job_offer_expiration_timestamp": 1731797620,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "false",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": [
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "Rest",
+        "XML",
+        "JSON",
+        "React JS",
+        "UI"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 30,
+      "job_max_salary": 40,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Must Have: React, UI"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "fFjM3XF1OhUaCwXRAAAAAA==",
+      "employer_name": "Sirius XM",
+      "employer_logo": "https://corporate.siriusxm.com/assets/mediakit/brandlogos/siriusxm-wordmark-blue-rgb.jpg",
+      "employer_website": "https://www.siriusxm.com",
+      "employer_company_type": "Information",
+      "employer_linkedin": null,
+      "job_publisher": "SiriusXM Careers",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Senior Software Engineer, React UI developer",
+      "job_apply_link": "https://careers.siriusxm.com/careers/jobs/15628?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.8986,
+      "apply_options": [
+        {
+          "publisher": "SiriusXM Careers",
+          "apply_link": "https://careers.siriusxm.com/careers/jobs/15628?lang=en-us&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Sirius-XM-Radio/Job/Senior-Software-Engineer,-React-UI-developer/-in-Irving,TX?jid=3750b73f83b16952&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/25a9f7d4-0ce7-4e20-8361-364f010a74a3?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/senior-software-engineer-react-ui-developer-at-siriusxm-3945069071?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Milwaukee Jobs",
+          "apply_link": "https://www.milwaukeejobs.com/job/detail/79223077/Senior-Software-Engineer-React-UI-developer?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobs.com",
+          "apply_link": "https://www.jobs.com/en-us/jobs/senior-software-engineer-react-ui-developer-irving-tx--ad90ccab-2cb9-4d8e-9037-50a59856f1d2?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Ladders",
+          "apply_link": "https://www.theladders.com/job/senior-software-engineer-ui-developer-and-design-cdwcorporation-irving-tx_75426975?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SimplyHired",
+          "apply_link": "https://www.simplyhired.com/job/qVJU84K6NGH6KZ8yQSEj_dYL8oTyuKAFHBLHsukq2uILpUR5CdMeGw?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Who We Are:\n\nSiriusXM and its brands (Pandora, SXM Media, AdsWizz, Simplecast, and SiriusXM Connect) are leading a new era of audio entertainment and services by delivering the most compelling subscription and ad-supported audio entertainment experience for listeners -- in the car, at home, and anywhere on the go with connected devices. Our vision is to shape the future of audio, where everyone can be effortlessly connected to the voices, stories and music they love wherever they are.\n\nThis is the place where a diverse group of emerging talent and legends alike come to share authentic and purposeful songs, stories, sounds and insights through some of the best programming and technology in the world. Our critically-acclaimed, industry-leading audio entertainment encompasses music, sports, comedy, news, talk, live events, and podcasting. No matter their individual role, each of our employees plays a vital part in bringing SiriusXM’s vision to life every day.\n\nSiriusXM is the leading audio entertainment company in North America, and the premier programmer and platform for subscription and digital advertising-supported audio products. SiriusXM’s platforms collectively reach approximately 150 million listeners, the largest digital audio audience across paid and free tiers in North America, and deliver music, sports, talk, news, comedy, entertainment and podcasts. Pandora, a subsidiary of SiriusXM, is the largest ad-supported audio entertainment streaming service in the U.S. SiriusXM's subsidiaries Simplecast and AdsWizz make it a leader in podcast hosting, production, distribution, analytics and monetization. The Company’s advertising sales organization, which operates as SXM Media, leverages its scale, cross-platform sales organization and ad tech capabilities to deliver results for audio creators and advertisers. SiriusXM, through Sirius XM Canada Holdings, Inc., also offers satellite radio and audio entertainment in Canada. In addition to its audio entertainment businesses, SiriusXM offers connected vehicle services to automakers.\n\nHow you’ll make an impact:\n\nThis position is responsible for evolving our user interfaces and helping define the tools and processes needed to build compelling digital experiences. You will collaborate closely with our design and product teams, gathering requirements, building solutions, and providing guidance to team members on best- practice approaches to follow.\n\nWhat you’ll do:\n\nSiriusXM is looking for a creative and collaborative Senior Software Engineer with experience designing and building modern consumer web applications. As a member of our Client Engineering team, you will participate in important design decisions and play a key role in developing SiriusXM streaming music services (SiriusXM, Pandora), used daily by millions of listeners.\n\nWhat you’ll need:\n• A strong interest in collaborating why are code reviews and technical discussions.\n• Excellent communication and interpersonal skills.\n• A growth mindset and an ability to learn quickly.\n• 4+ years demonstrable professional experience and 2+ years developing solutions for consumer web applications.\n• Experience with core technologies such as NodeJS, GitHub Actions, Webpack, Vite, Nomad, Docker, JavaScript, TypeScript, React, Jest, Vitest.\n• Experience with JavaScript/TypeScript tooling.\n• Experience with writing unit, integration, and acceptance tests with Jest, Vitest, or similar.\n• Exposure to, and/or, experience with cloud technologies such as AWS, Azure Google Cloud or similar.\n• Expert at debugging code errors and troubleshooting API issues.\n• Exposure to architectural design patterns of highly scaled web applications.\n• Ability to effectively work cross-functionally in a fast-paced work environment.\n• Familiarity with asynchronous programming and handling API requests.\n• Understanding of performance optimization for network communication.\n• Nice to have a knowledge of continuous integration and continuous deployment (CI/CD) pipelines.\n• Nice to have familiarity with monitoring and logging tools.\n• Nice to have familiarity with trunk- based development.\n• Nice to have familiarity with HTML5/JavaScript environments beyond web browsers.\n• Nice to have solid understanding of React and related technologies.\n• Nice to have solid command of web standards, best practices, accessibility and browser compatibility issues.\n• Must have legal status to work in U.S.\n\nOur goal at SiriusXM is to provide and maintain a work environment that fosters mutual respect, professionalism and cooperation. SiriusXM is an equal opportunity employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, national origin, ancestry, alienage or citizenship status, age, disability or handicap, sex, gender identity, marital status, familial status, veteran status, sexual orientation or any other characteristic protected by applicable federal, state or local laws.\n\nThe requirements and duties described above may be modified or waived by the Company in its sole discretion without notice.\n\n#LI-NS1\nR-2024-04-74",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1729225440,
+      "job_posted_at_datetime_utc": "2024-10-18T04:24:00.000Z",
+      "job_city": "Atlanta",
+      "job_state": "GA",
+      "job_country": "US",
+      "job_latitude": 33.750126,
+      "job_longitude": -84.38852,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DfFjM3XF1OhUaCwXRAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2025-09-18T16:30:13.000Z",
+      "job_offer_expiration_timestamp": 1758213013,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": "48",
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": [
+        "UNAVAILABLE"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 0,
+      "job_max_salary": 0,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "A strong interest in collaborating why are code reviews and technical discussions",
+          "Excellent communication and interpersonal skills",
+          "A growth mindset and an ability to learn quickly",
+          "4+ years demonstrable professional experience and 2+ years developing solutions for consumer web applications",
+          "Experience with core technologies such as NodeJS, GitHub Actions, Webpack, Vite, Nomad, Docker, JavaScript, TypeScript, React, Jest, Vitest",
+          "Experience with JavaScript/TypeScript tooling",
+          "Experience with writing unit, integration, and acceptance tests with Jest, Vitest, or similar",
+          "Exposure to, and/or, experience with cloud technologies such as AWS, Azure Google Cloud or similar",
+          "Expert at debugging code errors and troubleshooting API issues",
+          "Exposure to architectural design patterns of highly scaled web applications",
+          "Ability to effectively work cross-functionally in a fast-paced work environment",
+          "Familiarity with asynchronous programming and handling API requests",
+          "Understanding of performance optimization for network communication",
+          "Nice to have a knowledge of continuous integration and continuous deployment (CI/CD) pipelines",
+          "Nice to have familiarity with monitoring and logging tools",
+          "Nice to have familiarity with trunk- based development",
+          "Nice to have familiarity with HTML5/JavaScript environments beyond web browsers",
+          "Nice to have solid understanding of React and related technologies",
+          "Nice to have solid command of web standards, best practices, accessibility and browser compatibility issues",
+          "Must have legal status to work in U.S"
+        ],
+        "Responsibilities": [
+          "This position is responsible for evolving our user interfaces and helping define the tools and processes needed to build compelling digital experiences",
+          "You will collaborate closely with our design and product teams, gathering requirements, building solutions, and providing guidance to team members on best- practice approaches to follow",
+          "As a member of our Client Engineering team, you will participate in important design decisions and play a key role in developing SiriusXM streaming music services (SiriusXM, Pandora), used daily by millions of listeners"
+        ]
+      },
+      "job_job_title": "Senior software engineer",
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": "51511",
+      "job_naics_name": "Radio Broadcasting"
+    },
+    {
+      "job_id": "gRODhx3j7d5DTGoWAAAAAA==",
+      "employer_name": "CloudBC Labs",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "Jooble",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React Developer",
+      "job_apply_link": "https://jooble.org/jdp/5756586552180670239?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.4897,
+      "apply_options": [
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/5756586552180670239?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Recruit.net",
+          "apply_link": "https://www.recruit.net/job/react-developer-jobs/67A54AD50CA8CC7B?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Learn4Good",
+          "apply_link": "https://www.learn4good.com/jobs/virginia-beach/virginia/software_development/3661418188/e/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Position : React/UI Developer Location : Remote Term : W2 role End Client : US Bank Job Description : REQUIRED SKILLS : ReactJS UI development (5 YOE) Experience migrating from AngularJS to ReactJS components Familiarity and experience with backend Java to help decipher and connect backend to UI components Will be moving from AngularJS to ReactJS UI\nCloudBC Labs",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1729200198,
+      "job_posted_at_datetime_utc": "2024-10-17T21:23:18.000Z",
+      "job_city": "Virginia Beach",
+      "job_state": "VA",
+      "job_country": "US",
+      "job_latitude": 36.851643,
+      "job_longitude": -75.97922,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3DgRODhx3j7d5DTGoWAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-18T01:26:02.000Z",
+      "job_offer_expiration_timestamp": 1731893162,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {},
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "13Wn-mTPQL0sPouBAAAAAA==",
+      "employer_name": "Jobs via Dice",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ655rHqQwI0u8U3lEthx_ixaJmT38PRydPBo4&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "FULLTIME",
+      "job_title": "React Front End Developer - Lansing, MI (Hybrid) - Locals of MI only!!",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/react-front-end-developer-lansing-mi-hybrid-locals-of-mi-only%21%21-at-jobs-via-dice-4051887846?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6389,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/react-front-end-developer-lansing-mi-hybrid-locals-of-mi-only%21%21-at-jobs-via-dice-4051887846?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Dice",
+          "apply_link": "https://www.dice.com/job-detail/67140355-4397-444b-b6db-3a7f8668896f?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Role - Java/React Front End Developer\n\nLocals of MI only!!\n\nSkills -\n• Strong background with React.js. Required, 5 years.\n• Experience with HTML5 and CSS Frameworks. Required, 5 Years.\n• Strong knowledge and background with ADA, WCAG 2.1, Section 508 compliance policies, User Experience design principles and standards. Required, 5 years.\n• Experience with current JAVA, this includes using relevant IDE tools such as Eclipse/Jboss Developer Studio. Required, 3 Years.\n• Experience programming in projects using JPA framework. Required, 2 Years.\n• Experience programming in projects using current Spring framework. Required, 2 Years.\n• Experience programming with Spring Boot and Spring Data. Required, 2 Years.\n• Experience programming with Java 8+. Required, 3 Years.\n• Experience participating as a programmer within an Agile development environment. Required, 2 Years.\n• Experience programming in the JBOSS Enterprise environment. Desired, 2 Years\n\nReact Front End Developer - Lansing, MI (Hybrid) - Locals of MI only!!",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1729275089,
+      "job_posted_at_datetime_utc": "2024-10-18T18:11:29.000Z",
+      "job_city": "Lansing",
+      "job_state": "MI",
+      "job_country": "US",
+      "job_latitude": 42.732536,
+      "job_longitude": -84.555534,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=react+developer&start=0&udm=8#vhid=vt%3D20/docid%3D13Wn-mTPQL0sPouBAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-17T18:11:29.000Z",
+      "job_offer_expiration_timestamp": 1731867089,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": "60",
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": "false",
+        "professional_certification": "false",
+        "high_school": "false",
+        "associates_degree": "false",
+        "bachelors_degree": "true",
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Strong background with React.js",
+          "Required, 5 years",
+          "Experience with HTML5 and CSS Frameworks",
+          "Strong knowledge and background with ADA, WCAG 2.1, Section 508 compliance policies, User Experience design principles and standards",
+          "Experience with current JAVA, this includes using relevant IDE tools such as Eclipse/Jboss Developer Studio",
+          "Required, 3 Years",
+          "Required, 2 Years",
+          "Experience programming in projects using current Spring framework",
+          "Experience programming with Spring Boot and Spring Data",
+          "Experience programming with Java 8+",
+          "Experience participating as a programmer within an Agile development environment",
+          "Experience programming in the JBOSS Enterprise environment"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113400",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    }
+  ]
+}

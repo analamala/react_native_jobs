@@ -1,0 +1,994 @@
+{
+  "status": "OK",
+  "request_id": "5ff1c2bf-6f93-42c1-b16b-2a39bb642d26",
+  "parameters": {
+    "query": "remote",
+    "page": 1,
+    "num_pages": 1
+  },
+  "data": [
+    {
+      "job_id": "nVvUF8KTzd26AHi1AAAAAA==",
+      "employer_name": "Winterfell and Company",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqiTRk0KnLDrtp8x8FMAQY0YBwcjeU2Rm_Xi3L&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Now Hiring Remote Sales Experts: Apply Today",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/now-hiring-remote-sales-experts-apply-today-at-winterfell-and-company-4053293922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6683,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/now-hiring-remote-sales-experts-apply-today-at-winterfell-and-company-4053293922?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Discover an Exciting Career Opportunity with Our Top-Rated Team!\n\nRecognized for our outstanding workplace culture by Entrepreneur Magazine and highly rated on Glassdoor and Indeed, our company has also been featured in Forbes and listed among the Inc. 5000 fastest-growing companies for six consecutive years.\n\nJoin us for a proven system and a unique opportunity to advance your professional journey.\n• Enjoy a flexible 3-4 day work schedule.\n• Access our advanced online training and support system, provided free of charge.\n• Focus on warm leads; eliminate cold calling.\n• Receive daily commission payouts for immediate compensation (commission-only role).\n• Utilize state-of-the-art technology tools to streamline sales processes.\n• Receive ongoing mentorship from seasoned industry leaders.\n• Earn multiple all-expense-paid incentive trips worldwide annually.\n\nNo office constraints—work remotely, manage your own schedule, and achieve work-life balance!\n\nResponsibilities\n\nCollaborate with mentors and team members to handle inbound requests nationwide for various insurance products. Engage prospects, assess their needs, schedule virtual meetings, present tailored solutions, and close deals within a typical 72-hour cycle.\n\nKey Qualities\n• Demonstrate integrity and ethical behavior.\n• Show dedication to continuous improvement and a strong work ethic.\n• Exhibit humility and a willingness to learn and adapt.\n\nIf you're a motivated professional ready to take your career to new heights, submit your resume along with a cover letter outlining why you'd excel in this role. We'll be in touch to discuss your application further.\n\nDisclaimer\n\nThis role operates on a 1099 independent contractor commission-based sales model.\n\nPowered by JazzHR",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1729437506,
+      "job_posted_at_datetime_utc": "2024-10-20T15:18:26.000Z",
+      "job_city": "Watertown",
+      "job_state": "SD",
+      "job_country": "US",
+      "job_latitude": 44.89941,
+      "job_longitude": -97.115074,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3DnVvUF8KTzd26AHi1AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-18T15:09:22.000Z",
+      "job_offer_expiration_timestamp": 1731942562,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "false",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Demonstrate integrity and ethical behavior",
+          "Show dedication to continuous improvement and a strong work ethic",
+          "Exhibit humility and a willingness to learn and adapt"
+        ],
+        "Responsibilities": [
+          "Utilize state-of-the-art technology tools to streamline sales processes",
+          "Collaborate with mentors and team members to handle inbound requests nationwide for various insurance products",
+          "Engage prospects, assess their needs, schedule virtual meetings, present tailored solutions, and close deals within a typical 72-hour cycle"
+        ],
+        "Benefits": [
+          "Enjoy a flexible 3-4 day work schedule",
+          "Access our advanced online training and support system, provided free of charge",
+          "Receive daily commission payouts for immediate compensation (commission-only role)",
+          "Receive ongoing mentorship from seasoned industry leaders",
+          "Earn multiple all-expense-paid incentive trips worldwide annually",
+          "No office constraints—work remotely, manage your own schedule, and achieve work-life balance!"
+        ]
+      },
+      "job_job_title": "Experts",
+      "job_posting_language": "en",
+      "job_onet_soc": "41401100",
+      "job_onet_job_zone": "4",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "Te9t8CuMzvg7VIx9AAAAAA==",
+      "employer_name": "Lincoln Financial",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRGtiumaxYL-7W3cGfJxax_WTMcQynKSAfcnxyF&s=0",
+      "employer_website": "http://www.lfg.com",
+      "employer_company_type": "Finance",
+      "employer_linkedin": null,
+      "job_publisher": "Jobs At Lincoln Financial",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Claims Care Associate (Remote available)",
+      "job_apply_link": "https://jobs.lincolnfinancial.com/job/Omaha-Claims-Care-Associate-%28Remote-available%29-NE-68046/1157270400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7954,
+      "apply_options": [
+        {
+          "publisher": "Jobs At Lincoln Financial",
+          "apply_link": "https://jobs.lincolnfinancial.com/job/Omaha-Claims-Care-Associate-%28Remote-available%29-NE-68046/1157270400/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "ZipRecruiter",
+          "apply_link": "https://www.ziprecruiter.com/c/Lincoln-Financial/Job/Claims-Care-Associate-(Remote-available)/-in-Omaha,NE?jid=a9984d6ce831c401&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jooble",
+          "apply_link": "https://jooble.org/jdp/5959147783469410964?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "USNLX Virtual Jobs - National Labor Exchange",
+          "apply_link": "https://virtualjobs.usnlx.com/omaha-ne/claims-care-associate-remote-available/A2BC9DEA8C9842D097986DA5244C7B50/job/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Recruit.net",
+          "apply_link": "https://www.recruit.net/job/claims-care-associate-jobs/D9437812B2F8D0EA?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Alternate Locations: Charlotte, NC (North Carolina); Dover, NH (New Hampshire); Omaha, NE (Nebraska); Work from Home\n\nWork Arrangement:\n\nHybrid/Flexible : Work at home and use the office as appropriate for in-person collaboration.\n\nRelocation assistance: is not available for this opportunity.\n\nRequisition #: 72954\n\nThe Role at a Glance\n\nWe are excited to bring on a Claims Customer Care Associate to join our claimant excellence team supporting Group Protection in a remote environment.\n\nBackground Details\n\nThe Claimant Excellence Team will provide you with several weeks of paid training, coaching and development to perform in this fast-paced environment.\n\nAs a Claims Customer Care Associate, you will be responsible for answering claimants calls regarding potential group insurance product (example: dental, life, disability, FMLA, etc.) in a call center environment. You will act as a liaison between the employee (member) and the claims examiner to provide a positive customer experience during their specific challenge. As a member of the team, you will educate the customer on their claims needs/questions and advise of next steps in the process. This opportunity will provide insight into the world of group insurance administration while gaining new skills through a defined career pathing and development program. If this sounds like a role for you, please read on!\n\nWhat you'll be doing\n• You will communicate with roughly 50-60 customers throughout the day, answering questions and providing information regarding their claim through the utilization of multiple applications and platforms. In addition, you will provide verification of benefits as needed for member.\n• You will provide education to the customer/employer regarding the product (primary products: FMLA and disability) while having a strong focus on attention to detail to ensure the claim/leave is notated appropriately.\n• You will communicate effectively through email/phone with internal/external stakeholders in a customer centric and professional demeanor while recognizing what needs to be done to meet customers’ expectations and demonstrates flexibility/responsiveness to meet customer needs on routine work independently.\n• You will identify, recommend, and champion process improvements and organizational initiatives to positively influence the team and quality.\n• Training Schedule: Monday – Friday 9:00am – 5:30pm EST 6 weeks (no time off during training).\n• Regular Full Time Schedule: Must be available to work an 8 hour shift Monday through Friday between the hours of 8:00am to 8:00pm EST (later shifts may occur as you progress in your career).\n• Regular Part Time Schedule: Must be available to work a 10 hour shift\n\nWhat we’re looking for\n\nMust-have experience (Required)\n• High School Diploma or GED\n• Ability to communicate effectively (verbal/written)\n• Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)\n\nMust-have capabilities:\n• Must have internet bandwidth of 12 Mbps (Megabits per second). Preferred bandwidth is 25 Mbps to perform at full capacity. *To check internet speed, go to ‘Google’ and type in ‘Speed Test’ and simply select ‘Run Speed Test’. This will run for roughly 30 seconds. Once complete you will receive a display showing your internet bandwidth.\n\nNice-to have Experience (Preferred):\n• Data entry and research experience in a fast-paced environment\n• Ability to maneuver through multiple systems as needed\n\nWhat’s it like to work here?\n\nAt Lincoln Financial Group, we love what we do. We make meaningful contributions each and every day to empower our customers to take charge of their lives. Working alongside dedicated and talented colleagues, we build fulfilling careers and stronger communities through a company that values our unique perspectives, insights and contributions and invests in programs that empower each of us to take charge of our own future.\n\nWhat’s in it for YOU:\n• Clearly defined career tracks and levels to help you successfully manage your career\n• Leadership development and virtual training opportunities\n• PTO/parental leave\n• Competitive 401K and employee benefits\n• Free financial counseling, health coaching and employee assistance program\n• Tuition assistance program\n• A leadership team that prioritizes your health and well-being; offering a remote work environment and flexible work hybrid situations\n• Effective productivity/technology tools and training\n\nPay Range: $17.45\n\nActual base pay could vary based on non-discriminatory factors including but not limited to work experience, education, location, licensure requirements, proficiency and qualifications required for the role. The base pay is just one component of Lincoln’s total rewards package for employees. In addition, the role may be eligible for the Annual Incentive Program, which is discretionary and based on the performance of the company, business unit and individual. Other rewards may include long-term incentives, sales incentives and Lincoln’s standard benefits package.\n\nAbout The Company\n\nLincoln Financial Group helps people to plan, protect and retire with confidence. As of Dec. 31, 2023, approximately 17 million customers trust our guidance and solutions across four core businesses – annuities, life insurance, group protection and retirement plan services. As of December 31, 2023, the company had $295 billion in end-of-period account balances, net of reinsurance. Headquartered in Radnor, Pa., Lincoln Financial Group is the marketing name for Lincoln National Corporation (NYSE: LNC) and its affiliates. Learn more at LincolnFinancial.com.\n\nLincoln is committed to creating a diverse and inclusive environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.\n\nFollow us on Facebook, X, LinkedIn, and Instagram. For the latest company news, visit our newsroom.\n\nBe Aware of Fraudulent Recruiting Activities\n\nIf you are interested in a career at Lincoln, we encourage you to review our current openings and apply on our website. Lincoln values the privacy and security of every applicant and urges all applicants to diligently protect their sensitive personal information from scams targeting job seekers. These scams can take many forms including fake employment applications, bogus interviews and falsified offer letters.\n\nLincoln will not ask applicants to provide their social security numbers, date of birth, bank account information or other sensitive information in job applications. Additionally, our recruiters do not communicate with applicants through free e-mail accounts (Gmail, Yahoo, Hotmail) or conduct interviews utilizing video chat rooms. We will never ask applicants to provide payment during the hiring process or extend an offer without conducting a phone, live video or in-person interview. Please contact Lincoln's fraud team at fraudhotline@lfg.com if you encounter a recruiter or see a job opportunity that seems suspicious.\n\nAdditional Information\n\nThis position may be subject to Lincoln’s Political Contribution Policy. An offer of employment may be contingent upon disclosing to Lincoln the details of certain political contributions. Lincoln may decline to extend an offer or terminate employment for this role if it determines political contributions made could have an adverse impact on Lincoln’s current or future business interests, misrepresentations were made, or for failure to fully disclose applicable political contributions and or fundraising activities.\n\nAny unsolicited resumes/candidate profiles submitted through our web site or to personal e-mail accounts of employees of Lincoln Financial Group are considered property of Lincoln Financial Group and are not subject to payment of agency fees.\n\nLincoln Financial Group (“LFG”) is an Equal Opportunity employer and, as such, is committed in policy and practice to recruit, hire, compensate, train and promote, in all job classifications, without regard to race, color, religion, sex (including pregnancy), age, national origin, disability, sexual orientation, gender identity and expression, Veteran status, or genetic information. Applicants are evaluated on the basis of job qualifications. If you are a person with a disability that impedes your ability to express your interest for a position through our online application process, or require TTY/TDD assistance, contact us by calling 260-455-2558.\n\nThis Employer Participates in E-Verify. See the E-Verify notices.\n\nEste Empleador Participa en E-Verify. Ver el E-Verify avisos.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1727852400,
+      "job_posted_at_datetime_utc": "2024-10-02T07:00:00.000Z",
+      "job_city": "Omaha",
+      "job_state": "NE",
+      "job_country": "US",
+      "job_latitude": 41.25654,
+      "job_longitude": -95.9345,
+      "job_benefits": [
+        "paid_time_off",
+        "health_insurance",
+        "retirement_savings"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3DTe9t8CuMzvg7VIx9AAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "true",
+        "experience_preferred": "true"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Regular Part Time Schedule: Must be available to work a 10 hour shift",
+          "High School Diploma or GED",
+          "Ability to communicate effectively (verbal/written)",
+          "Proficiency in Microsoft Office Suite (Word, Excel, PowerPoint, Outlook)",
+          "Must have internet bandwidth of 12 Mbps (Megabits per second)",
+          "*To check internet speed, go to ‘Google’ and type in ‘Speed Test’ and simply select ‘Run Speed Test’"
+        ],
+        "Responsibilities": [
+          "As a Claims Customer Care Associate, you will be responsible for answering claimants calls regarding potential group insurance product (example: dental, life, disability, FMLA, etc.) in a call center environment",
+          "You will act as a liaison between the employee (member) and the claims examiner to provide a positive customer experience during their specific challenge",
+          "As a member of the team, you will educate the customer on their claims needs/questions and advise of next steps in the process",
+          "This opportunity will provide insight into the world of group insurance administration while gaining new skills through a defined career pathing and development program",
+          "You will communicate with roughly 50-60 customers throughout the day, answering questions and providing information regarding their claim through the utilization of multiple applications and platforms",
+          "You will provide education to the customer/employer regarding the product (primary products: FMLA and disability) while having a strong focus on attention to detail to ensure the claim/leave is notated appropriately",
+          "You will communicate effectively through email/phone with internal/external stakeholders in a customer centric and professional demeanor while recognizing what needs to be done to meet customers’ expectations and demonstrates flexibility/responsiveness to meet customer needs on routine work independently",
+          "You will identify, recommend, and champion process improvements and organizational initiatives to positively influence the team and quality",
+          "Training Schedule: Monday – Friday 9:00am – 5:30pm EST 6 weeks (no time off during training)"
+        ],
+        "Benefits": [
+          "Clearly defined career tracks and levels to help you successfully manage your career",
+          "Leadership development and virtual training opportunities",
+          "PTO/parental leave",
+          "Competitive 401K and employee benefits",
+          "Free financial counseling, health coaching and employee assistance program",
+          "Tuition assistance program",
+          "A leadership team that prioritizes your health and well-being; offering a remote work environment and flexible work hybrid situations",
+          "Effective productivity/technology tools and training",
+          "Pay Range: $17.45",
+          "Actual base pay could vary based on non-discriminatory factors including but not limited to work experience, education, location, licensure requirements, proficiency and qualifications required for the role",
+          "The base pay is just one component of Lincoln’s total rewards package for employees",
+          "In addition, the role may be eligible for the Annual Incentive Program, which is discretionary and based on the performance of the company, business unit and individual",
+          "Other rewards may include long-term incentives, sales incentives and Lincoln’s standard benefits package"
+        ]
+      },
+      "job_job_title": "Care associate",
+      "job_posting_language": "en",
+      "job_onet_soc": "43405100",
+      "job_onet_job_zone": "2",
+      "job_occupational_categories": null,
+      "job_naics_code": "524113",
+      "job_naics_name": "Direct Life Insurance Carriers"
+    },
+    {
+      "job_id": "ZcyfO_dXjxE2AdxqAAAAAA==",
+      "employer_name": "The Gaines Agency",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqGss-dmunsJ_VuwySZkZLlcZsBCUGM8Vxa-LH&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "FULLTIME",
+      "job_title": "National Sales Specialist (Remote - Flexible Schedule) (Average $80k-$200k)",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/national-sales-specialist-remote-flexible-schedule-average-%2480k-%24200k-at-the-gaines-agency-4053854394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.5721,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/national-sales-specialist-remote-flexible-schedule-average-%2480k-%24200k-at-the-gaines-agency-4053854394?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "USA Remote Jobs",
+          "apply_link": "https://remotejobs.coffeereso.com/job/national-sales-specialist-flexible-schedule-average-80k-200k/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "USA Remote Job Mysmartpros",
+          "apply_link": "https://remote.mysmartpros.com/jobs/national-sales-specialist-flexible-schedule-average-80k-200k/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remote Jobs Apply",
+          "apply_link": "https://thetodayupdate.com/job/national-sales-specialist-remote-flexible-schedule-average-80k-200k/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Getjob.thewebscout",
+          "apply_link": "https://getjob.thewebscout.com/job/remote-national-sales-specialist-flexible-schedule-average-80k-200k-3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remotely WFH Jobs",
+          "apply_link": "https://getjob.allexamsolution.com/job/remote-national-sales-specialist-flexible-schedule-average-80k-200k-3/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "USA Remote Jobs",
+          "apply_link": "https://jobtwigo.com/job/national-sales-specialist-remote-flexible-schedule-average-80k-200k/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Remotely USA Jobs",
+          "apply_link": "https://ihire.allboardsolutions.in/job/national-sales-specialist-remote-flexible-schedule-average-80k-200k/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Who Are We?\n\nThe Gaines Agency is looking for individuals that are tired of the daily grind. Tired of not getting paid what you are worth when the company is making a profit? Are you tired of missing out on your family life? We are looking for motivated individuals that want more out of life than the 9-5 \"JOB\" and are ready to bet on themselves in business.\n\nAre you ready for a change?\n\nAt The Gaines Agency, we are committed to every one of our agents' success. We are a family run independent insurance agency looking for team-players with high integrity and a strong work ethic. Those who have an entrepreneurial passion and a strong commitment to serving clients. Both full and part time sales and insurance agency development positions are available.\n\nThe Position:\n\nAs an agent you will help families plan for their future. If an unexpected tragedy strikes, is there a plan in place to continue mortgage payments? How about other bills? Income Replacement?\n\nYou will obtain clients through a state of the art lead generation system. Cold calls are a thing of the past. You don't have to call all your family and friends to get their business. We get you in front of families that want your help. You will follow up on the family's request for more information and meet your clients virtually. If you are not licensed, we will help you get licensed. If you are new to sales, we will teach you how to talk to people and provide them with what they are looking for through the systems we have built in our Agency.\n\nYou will be matched up with one of our leaders to help guide you down the path to success. But you will be exposed to an entire agency full of sales professionals eager to help you grow!\n\n· One of America's Fastest Growing Companies: Inc 5000 #1022 for last 6 years, with multiple Stevie awards, and Best in Biz awards\n\n· Luxury All Expense Paid Vacations: Free, world-class travel to reward you for your production\n\n· Passive Income: Eventually you'll have the ability to replace your personal production\n\n· Untapped Market Potential: Demand nationwide has not been sufficiently met by our products\n\n· Team Culture that seeks to promote without over-working you: At our core we believe in balance\n\n· Health Insurance Benefits Available\n\nDiscovering a mutual fit in our hiring process is very important to us, as we don't align with everyone, and we recognize you feel the same way. We look forward to learning more about you!\n• Please Note: No agent’s success, earnings, or production results should be viewed as typical, average, or expected. Not all agents achieve the same or similar results, and no particular results are guaranteed. Your level of success will be determined by several factors, including the amount of work you put in, your ability to successfully follow and implement our training and sales system and engage with our lead system, and the insurance needs of the customers in the geographic areas in which you choose to work.",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1729258281,
+      "job_posted_at_datetime_utc": "2024-10-18T13:31:21.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 38.794594,
+      "job_longitude": -106.534836,
+      "job_benefits": [
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3DZcyfO_dXjxE2AdxqAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-17T13:31:20.000Z",
+      "job_offer_expiration_timestamp": 1731850280,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "false",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": "false",
+        "professional_certification": "false",
+        "high_school": "false",
+        "associates_degree": "false",
+        "bachelors_degree": "true",
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Responsibilities": [
+          "As an agent you will help families plan for their future",
+          "You will obtain clients through a state of the art lead generation system"
+        ],
+        "Benefits": [
+          "But you will be exposed to an entire agency full of sales professionals eager to help you grow!",
+          "Luxury All Expense Paid Vacations: Free, world-class travel to reward you for your production",
+          "Passive Income: Eventually you'll have the ability to replace your personal production",
+          "Team Culture that seeks to promote without over-working you: At our core we believe in balance",
+          "Health Insurance Benefits Available"
+        ]
+      },
+      "job_job_title": "Sales specialist",
+      "job_posting_language": "en",
+      "job_onet_soc": "41401100",
+      "job_onet_job_zone": "4",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "9g1QUQZ9XrERczVDAAAAAA==",
+      "employer_name": "Hydrogen Group",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYenpP9POUQyoe3wCt7ih5bafKx0_PumU3nGQW&s=0",
+      "employer_website": "http://www.hydrogengroup.com",
+      "employer_company_type": "Staffing",
+      "employer_linkedin": null,
+      "job_publisher": "KHON2 Jobs",
+      "job_employment_type": "TEMPORARY",
+      "job_title": "Remote Service Desk Specialist",
+      "job_apply_link": "https://jobs.khon2.com/jobs/remote-service-desk-specialist-orlando-florida/1474847080-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.5609,
+      "apply_options": [
+        {
+          "publisher": "KHON2 Jobs",
+          "apply_link": "https://jobs.khon2.com/jobs/remote-service-desk-specialist-orlando-florida/1474847080-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "SaluteMyJob",
+          "apply_link": "https://salutemyjob.com/jobs/remote-service-desk-specialist-orlando-florida/1474847080-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Positions For Col U Fans",
+          "apply_link": "https://positions.cu-fc.com/jobs/remote-service-desk-specialist-orlando-florida/1474847080-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "WDTN Jobs",
+          "apply_link": "https://jobs.wdtn.com/jobs/remote-service-desk-specialist-orlando-florida/1474847080-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "FOX8 Jobs",
+          "apply_link": "https://jobs.fox8.com/jobs/remote-service-desk-specialist-orlando-florida/1474847080-2/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Remote Service Desk Specialist\n\nDuration: 8 month w2 contract\n\nPay Rate: $28/hr\n\nWork Schedule: Monday - Friday 9AM - 6PM during Training. Tuesday through Saturday 9AM - 6PM after training.\n\nJob Description:\n• Providing Tier I support and customer assistance for a mobile application on iOS and Android operating systems.\n• Entering tickets into the required tracking system.\n\nMinimum Qualifications:\n• One year of professional experience in IT Help desk or support, OR\n• Associate's degree in IT, Computer Science, Computer Information Systems, or similar.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1729293958,
+      "job_posted_at_datetime_utc": "2024-10-18T23:25:58.000Z",
+      "job_city": "Orlando",
+      "job_state": "FL",
+      "job_country": "US",
+      "job_latitude": 28.538383,
+      "job_longitude": -81.37893,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3D9g1QUQZ9XrERczVDAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": "12",
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "true",
+        "degree_preferred": "true",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "One year of professional experience in IT Help desk or support, OR",
+          "Associate's degree in IT, Computer Science, Computer Information Systems, or similar"
+        ],
+        "Responsibilities": [
+          "Providing Tier I support and customer assistance for a mobile application on iOS and Android operating systems",
+          "Entering tickets into the required tracking system"
+        ],
+        "Benefits": [
+          "Pay Rate: $28/hr",
+          "Work Schedule: Monday - Friday 9AM - 6PM during Training"
+        ]
+      },
+      "job_job_title": "Desk specialist",
+      "job_posting_language": "en",
+      "job_onet_soc": "15115100",
+      "job_onet_job_zone": "3",
+      "job_occupational_categories": null,
+      "job_naics_code": "561311",
+      "job_naics_name": "Employment Placement Agencies"
+    },
+    {
+      "job_id": "KpCcL1Dcq71uwV4JAAAAAA==",
+      "employer_name": "Get It Recruit - Information Technology",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJqZ-ENXlzeEKmwDdcuUzh--MI4913tUgdUBZs&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "LinkedIn",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Remote SRE - Database",
+      "job_apply_link": "https://www.linkedin.com/jobs/view/remote-sre-database-at-get-it-recruit-information-technology-4053239798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.6389,
+      "apply_options": [
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/remote-sre-database-at-get-it-recruit-information-technology-4053239798?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Job Overview\n\nWe are in search of a talented Oracle Database Administrator with significant expertise in GoldenGate technology to contribute to our dynamic team. This role is perfect for a database professional with a strong focus on performance optimization and PL/SQL development.\n\nKey Responsibilities\n• Administer and oversee Oracle databases to ensure peak performance and reliability.\n• Leverage GoldenGate technology for effective data replication and synchronization.\n• Execute performance tuning and optimization initiatives across database systems.\n• Develop and sustain PL/SQL scripts to facilitate a variety of database tasks.\n• Work closely with cross-functional teams to address data management requirements.\n\nRequired Skills\n• Demonstrated experience as an Oracle Database Administrator, particularly with GoldenGate.\n• Profound skills in performance tuning and PL/SQL development.\n• Comprehensive understanding of database architecture and best management practices.\n• Exceptional problem-solving abilities and meticulous attention to detail.\n\nQualifications\n• Proven track record in Oracle Database Administration with a focus on GoldenGate technology.\n• Strong foundation in performance tuning and PL/SQL scripting.\n• In-depth knowledge of database management best practices.\n• Strong analytical skills and attention to detail.\n\nCareer Growth Opportunities\n\nOur organization is committed to fostering professional development and offers pathways for growth within the company, allowing you to refine your skills in Oracle database management and related technologies.\n\nCompany Culture And Values\n\nWe pride ourselves on a collaborative and supportive team environment that encourages interaction across departments to effectively manage data needs. Our employees are our most valuable asset, and we value detail-oriented, problem-solving mindsets.\n\nNetworking And Professional Opportunities\n\nJoining our team provides you with the chance to network with industry professionals, engage in skill development opportunities, and collaborate in a thriving professional environment.\n\nCompensation And Benefits\n• Competitive salary commensurate with experience.\n• Comprehensive health, dental, and vision insurance.\n• Opportunities for training and professional growth.\n\nEmployment Type: Full-Time",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1729392772,
+      "job_posted_at_datetime_utc": "2024-10-20T02:52:52.000Z",
+      "job_city": "Irving",
+      "job_state": "TX",
+      "job_country": "US",
+      "job_latitude": 32.81402,
+      "job_longitude": -96.94889,
+      "job_benefits": [
+        "health_insurance",
+        "dental_coverage"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3DKpCcL1Dcq71uwV4JAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-11-19T02:52:51.000Z",
+      "job_offer_expiration_timestamp": 1731984771,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": "false",
+        "professional_certification": "false",
+        "high_school": "false",
+        "associates_degree": "false",
+        "bachelors_degree": "true",
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Demonstrated experience as an Oracle Database Administrator, particularly with GoldenGate",
+          "Profound skills in performance tuning and PL/SQL development",
+          "Comprehensive understanding of database architecture and best management practices",
+          "Exceptional problem-solving abilities and meticulous attention to detail",
+          "Proven track record in Oracle Database Administration with a focus on GoldenGate technology",
+          "Strong foundation in performance tuning and PL/SQL scripting",
+          "In-depth knowledge of database management best practices",
+          "Strong analytical skills and attention to detail"
+        ],
+        "Responsibilities": [
+          "Administer and oversee Oracle databases to ensure peak performance and reliability",
+          "Leverage GoldenGate technology for effective data replication and synchronization",
+          "Execute performance tuning and optimization initiatives across database systems",
+          "Develop and sustain PL/SQL scripts to facilitate a variety of database tasks",
+          "Work closely with cross-functional teams to address data management requirements"
+        ],
+        "Benefits": [
+          "Our organization is committed to fostering professional development and offers pathways for growth within the company, allowing you to refine your skills in Oracle database management and related technologies",
+          "Joining our team provides you with the chance to network with industry professionals, engage in skill development opportunities, and collaborate in a thriving professional environment",
+          "Compensation And Benefits",
+          "Competitive salary commensurate with experience",
+          "Comprehensive health, dental, and vision insurance",
+          "Opportunities for training and professional growth"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "15113300",
+      "job_onet_job_zone": "4",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "M7J_zL-xxXRpa0TCAAAAAA==",
+      "employer_name": "MAI Voice NA LLC",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "Glassdoor",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Remote Survey Representatives",
+      "job_apply_link": "https://www.glassdoor.com/job-listing/remote-survey-representatives-mai-voice-na-llc-JV_KO0,29_KE30,46.htm?jl=1009492947469&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.5553,
+      "apply_options": [
+        {
+          "publisher": "Glassdoor",
+          "apply_link": "https://www.glassdoor.com/job-listing/remote-survey-representatives-mai-voice-na-llc-JV_KO0,29_KE30,46.htm?jl=1009492947469&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        },
+        {
+          "publisher": "USA Remote Job Mysmartpros",
+          "apply_link": "https://remote.mysmartpros.com/jobs/remote-survey-representatives/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Trabajo.org",
+          "apply_link": "https://us.trabajo.org/job-2914-b3f121a505477ea4e8dc2220258a52f9?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Job description\n\nMAI Voice is hiring Survey Representatives for the upcoming election cycle. This position requires good customer service skills. You will be making outbound calls conducting surveys throughout the election cycle. Work from the comfort of your own personal environment with no commute, no dress code or packing/buying your lunch or dinner. Looking to HIRE IMMEDIATELY. Position will run through the election in November.\n\nCurrent Schedule varies. Hours of operation are typically 11:00 AM - 8:00PM Central Standard Time. Morning hours do come available but are not guaranteed.\n\nPAY IS $12/HOUR\n\nJob Functions\n• Make outbound survey phone calls\n• Gather information into the computer system\n• Submit information and classify calls correctly based on individual responses\n\nQualifications/Equipment Requirements (candidate is responsible)\n• Must be able to speak English and proficiently read (English is first language)\n• Good customer service skills\n• Must have laptop/computer and meet Internet Speed Requirements\n• Windows 10 or higher\n• Must have internal camera/external webcam and USB headset\n• Must have a designated work-space free of distraction and background noise\n\nInterview Requirement\n• Note: If selected, all interviews will be conducted via zoom, and candidate must be at their designated work-space using their hardware, internal camera/external webcam and USB headset.\n\nThis position is classified as an Independent Contractor (1099).\n\nMAI Voice does not discriminate in employment on the basis of race, color, religion, sex (including pregnancy and gender identity), national origin, political affiliation, sexual orientation, marital status, disability, genetic information, age, membership in an employee organization, retaliation, parental status, military service, or other non-merit factor.\n\nDisclaimer- By submitting an application, you are authorizing GCO Services permission to run a criminal background check. You also provide consent for former employers to be contacted regarding work records.\n\nJob Types: Full-time, Part-time, Contract\n\nPay: $12.00 per hour\n\nSchedule:\n• 8 hour shift\n\nExperience:\n• Call Center: 2 years (Required)\n\nLanguage:\n• English (Required)\n\nWork Location: Remote",
+      "job_is_remote": true,
+      "job_posted_at_timestamp": 1729209600,
+      "job_posted_at_datetime_utc": "2024-10-18T00:00:00.000Z",
+      "job_city": null,
+      "job_state": null,
+      "job_country": "US",
+      "job_latitude": 38.794594,
+      "job_longitude": -106.534836,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3DM7J_zL-xxXRpa0TCAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2025-02-17T00:00:00.000Z",
+      "job_offer_expiration_timestamp": 1739750400,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": "false",
+      "job_min_salary": 12,
+      "job_max_salary": 12,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Must be able to speak English and proficiently read (English is first language)",
+          "Good customer service skills",
+          "Must have laptop/computer and meet Internet Speed Requirements",
+          "Windows 10 or higher",
+          "Must have a designated work-space free of distraction and background noise",
+          "Note: If selected, all interviews will be conducted via zoom, and candidate must be at their designated work-space using their hardware, internal camera/external webcam and USB headset",
+          "Call Center: 2 years (Required)",
+          "English (Required)"
+        ],
+        "Responsibilities": [
+          "You will be making outbound calls conducting surveys throughout the election cycle",
+          "Gather information into the computer system",
+          "Submit information and classify calls correctly based on individual responses"
+        ],
+        "Benefits": [
+          "PAY IS $12/HOUR",
+          "Pay: $12.00 per hour"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "17102200",
+      "job_onet_job_zone": "4",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "83BlebejjBgsbxKIAAAAAA==",
+      "employer_name": "FocusGroupPanel",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcSvYl9Wd6wIApnvoGOgWv-ztfw58-3feGRuy7&s=0",
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "WayUp",
+      "job_employment_type": "FULLTIME",
+      "job_title": "EntryLevel Data Management Assistant Remote",
+      "job_apply_link": "https://www.wayup.com/i-j-Entry-Level-Data-Management-Assistant-Remote-FocusGroupPanel-648698250584035/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.5669,
+      "apply_options": [
+        {
+          "publisher": "WayUp",
+          "apply_link": "https://www.wayup.com/i-j-Entry-Level-Data-Management-Assistant-Remote-FocusGroupPanel-648698250584035/?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Job Openings",
+          "apply_link": "https://focus-group-panel.breezy.hr/p/4f1ca161f80f-entry-level-data-management-assistant-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/us-md-gaithersburg-entrylevel-data-management-assistant-remote-focusgrouppanel?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Remote Work From Home Data Entry Clerk for Entry Level Position\n\nWork at home position for job seekers from virtually any work background who are interested in part-time, side gigs, micro jobs, work from home jobs and remote telecommute jobs.\n\nWe're looking for folks who want to earn weekly doing something strictly online and with maximum flexibility.\n\nThis is a great way to earn extra money in your spare time by working at home! For more information apply to our job posting and then look for email to apply to our online site. * You must apply online additionally.\n\nBenefits\n• Work when you want.\n• Earn serious cash working part time or full time.\n• Learn new skills that you can take anywhere.\n• Ditch the commute & the high gas prices\n• No degree required\n• Supplement your existing job. No need to quit your current job, unless you really hate it.\n• We provide training and tools to help you succeed in this industry\n• Excellent gig for Stay at home moms, retired folks, disabled people and anyone looking to learn how to make income online.\n• Much more...\n\nRemote work from home skills could include:\n• Typing 25+ words per minute\n• You enjoy data entry work and can perform the work from your home or location of choosing (remote work from home job)\n• Computer with internet access\n• It is crucial that you be self-motivated and able to follow explicit directions to begin working from home\n• Self Motivated - you must be 100% able to commit to working with little supervision\n• Work from home jobs of this nature require Internet and one of the following: Laptop or PC, MAC, or Smart Device - Android or IOS\n\nReady to get started? Apply today and start earning as quick as today.\n\nThanks for checking us out and we look forward to helping you achieve your goal of earning extra side income.\n\nAs a reminder the folks who work with us come from a wide variety of backgrounds like customer service representative, administrative assistant, health care workers, human resources, warehouse workers, car delivery drivers, remote work from home professionals, and many more.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1726278112,
+      "job_posted_at_datetime_utc": "2024-09-14T01:41:52.000Z",
+      "job_city": "Gaithersburg",
+      "job_state": "MD",
+      "job_country": "US",
+      "job_latitude": 39.14397,
+      "job_longitude": -77.20161,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3D83BlebejjBgsbxKIAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "false",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "Typing 25+ words per minute",
+          "It is crucial that you be self-motivated and able to follow explicit directions to begin working from home",
+          "Self Motivated - you must be 100% able to commit to working with little supervision",
+          "Work from home jobs of this nature require Internet and one of the following: Laptop or PC, MAC, or Smart Device - Android or IOS"
+        ],
+        "Benefits": [
+          "Work when you want",
+          "Earn serious cash working part time or full time",
+          "Learn new skills that you can take anywhere",
+          "Ditch the commute & the high gas prices",
+          "No degree required",
+          "Supplement your existing job",
+          "We provide training and tools to help you succeed in this industry",
+          "Excellent gig for Stay at home moms, retired folks, disabled people and anyone looking to learn how to make income online"
+        ]
+      },
+      "job_job_title": "Management assistant",
+      "job_posting_language": "en",
+      "job_onet_soc": "43902100",
+      "job_onet_job_zone": "2",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "NhpQx8cg8Gc_8YCNAAAAAA==",
+      "employer_name": "Carminati Consulting, Inc.",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1erZCwJhRHQpuIZdQfAid4C_Ei9aDU90l3-d6&s=0",
+      "employer_website": "http://carminaticonsulting.com",
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "Workstream",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Call Center Agent - Remote / Office",
+      "job_apply_link": "https://www.workstream.us/j/2ae6a5ed/carminati-consulting-inc/chicago-98319/call-center-agent-remote-office-14241cb1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": true,
+      "job_apply_quality_score": 0.5741,
+      "apply_options": [
+        {
+          "publisher": "Workstream",
+          "apply_link": "https://www.workstream.us/j/2ae6a5ed/carminati-consulting-inc/chicago-98319/call-center-agent-remote-office-14241cb1?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": true
+        }
+      ],
+      "job_description": "Carminati Consulting, Inc. - Immediate Remote / Office Call Center Agent\n\nAre you passionate about delivering exceptional customer service and thrive in a fast-paced environment?\n\nCarminati Consulting, founded in 2010, is looking for a highly skilled Remote / Office Call Center Agent to join our Customer Service team. This role offers the flexibility of working remotely or in our office, assisting customers through phone calls and online communication. If you have excellent communication skills, a customer-focused mindset, and enjoy problem-solving, this position is perfect for you.\n\nResponsibilities:\n• Handle incoming customer calls and provide accurate information\n• Assist customers with inquiries, orders, and issue resolution\n• Document all interactions for future reference\n• Follow up with customers to ensure satisfaction\n• Adhere to company policies for high-quality service\n\nQualifications:\n• High school diploma or equivalent\n• Prior experience in customer service or call center preferred\n• Excellent verbal and written communication skills\n• Strong problem-solving abilities and attention to detail\n• Ability to multitask and prioritize in a dynamic environment\n\nIf you are enthusiastic about making a difference in customer lives, apply now for the Remote / Office Call Center Agent role at Carminati Consulting, Inc. Join us in providing exceptional customer service and enjoy benefits like paid time off, health insurance, and more.\n\nLocation: Chicago\n\nCarminati Consulting, founded in 2010 is a Chicago-based firm that specializes in providing strategic business solutions to a diverse range of clients. With a focus on innovation and efficiency, the company offers consulting services tailored to meet the unique needs of each organization.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1728864000,
+      "job_posted_at_datetime_utc": "2024-10-14T00:00:00.000Z",
+      "job_city": "Chicago",
+      "job_state": "IL",
+      "job_country": "US",
+      "job_latitude": 41.878113,
+      "job_longitude": -87.6298,
+      "job_benefits": [
+        "paid_time_off",
+        "retirement_savings",
+        "health_insurance"
+      ],
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3DNhpQx8cg8Gc_8YCNAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2024-12-15T00:00:00.000Z",
+      "job_offer_expiration_timestamp": 1734220800,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": null,
+        "experience_mentioned": "true",
+        "experience_preferred": "true"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "false",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": 25,
+      "job_max_salary": 25,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "High school diploma or equivalent",
+          "Excellent verbal and written communication skills",
+          "Strong problem-solving abilities and attention to detail",
+          "Ability to multitask and prioritize in a dynamic environment"
+        ],
+        "Responsibilities": [
+          "This role offers the flexibility of working remotely or in our office, assisting customers through phone calls and online communication",
+          "Handle incoming customer calls and provide accurate information",
+          "Assist customers with inquiries, orders, and issue resolution",
+          "Document all interactions for future reference",
+          "Follow up with customers to ensure satisfaction",
+          "Adhere to company policies for high-quality service"
+        ]
+      },
+      "job_job_title": "Call center agent",
+      "job_posting_language": "en",
+      "job_onet_soc": "43405100",
+      "job_onet_job_zone": "2",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "vNMhj8siprsFZwRbAAAAAA==",
+      "employer_name": "NiSource Careers",
+      "employer_logo": null,
+      "employer_website": null,
+      "employer_company_type": null,
+      "employer_linkedin": null,
+      "job_publisher": "NiSource Careers",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Manager of Data Product - Remote",
+      "job_apply_link": "https://careers.nisource.com/jobs/14746623-manager-of-data-product-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.9098,
+      "apply_options": [
+        {
+          "publisher": "NiSource Careers",
+          "apply_link": "https://careers.nisource.com/jobs/14746623-manager-of-data-product-remote?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "NiSource",
+          "apply_link": "https://nisource.dejobs.org/merrillville-in/manager-of-data-product-remote/95D8764305FE43C8B97AA7E73189C933/job/?utm_source=XMLFeed-DE&utm_medium=XMLFeed&utm_campaign=XMLFeed&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobcase",
+          "apply_link": "https://www.jobcase.com/jobs/view/n/U-116252482728?jlsrc=3&utm_term=Manager+of+Data+Product+-+Remote&utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Description\n\nManager of Data Product- Remote\n\nFull Time Perm\n\nSalary: $125,800 - $188,600, plus annual bonus\n\nWay of Work: Remote\n\nThe Enterprise Data Strategy department owns the data strategy and build out of the enterprise data lake house.\n\nThe Data Product Manager leads a team that is responsible for ensuring that the NiSource central Data Lakehouse is designed and developed as one source of the truth that will support current and future analytics uses cases. The manager works closely with IT and with data & analytics teams to ensure that data is collected, transformed, and curated in adherence to design, development and data governance standards and policies. The ideal candidate has an in-depth knowledge and understanding of data architecture and database concepts in the Azure Cloud platform. The Data Product Manager provides strong and inclusive leadership in a manner that engages employees, establishes a culture of trust and accountability, and creates a strong pipeline of talent.    \n\n \n\nYour responsibilities may include, but are not limited to:\n• Develops, publishes, and monitors adherence to design standards for the NiSource enterprise data lake and legacy on premise data warehouse repositories.\n• Develops a roadmap to support the collection, transformation, and curation of data that is required to support planned and emerging analytics needs.\n• In partnership with IT and Business subject matter experts, advises mapping specifications for the IT team to follow in the development of the data lake.\n• Ensures that lineage is documented in the enterprise business glossary.\n• Serves as a product owner for the IT Data Lake development team to develop a backlog and prioritize requirements.\n• Contributes to the overall strategy of their organization.  \n• Partners with IT to develop strategies for and ensure the health of tools, platforms and processes that enable access to data for the purposes of analytics (e.g. vendor/license management, technology roadmaps, steady state support, administration).    \n• Hires, trains & evaluates a team of 2-3 data and analytics professionals.    \n• Works with staff to develop performance and professional development plans and measures performance based on established criteria for the team.  \n• Recommends solutions to stay abreast of current business and market trends and best practices and data and analytics.\n\n \n\nYou must possess the below minimum qualifications to be initially considered for this position. Preferred qualifications are in addition to the minimum requirements and are considered a plus factor in identifying top candidates.\n\nMinimum Qualifications\n• Bachelor’s degree or equivalent work experience\n• 7+ years of experience in a data analytics capacity\n• 3+ years of experience utilizing SQL, data modeling principles (including star schema design), and data architecture\n• 2+ years of experience leading teams\n\nPreferred Qualifications\n• Hands on experience developing a data warehouse or data lake in an Azure Cloud environment.\n• Hands on experience with data modeling tools.\n• Experience with a regulated utility.\n• Diverse background that brings experience of having worked across multiple data domains   \n\nDisclaimer\n\nThe preceding description is not designed to be a complete list of all duties and responsibilities required of the position.\n\nThis role does not qualify for sponsorship\n\nBy applying, you may be considered for other job opportunities. \n\nInclusion & Diversity \n\nValue inclusion within your day-to-day responsibilities by respecting others perspectives/convictions, engaging others opinions, creating a safe environment where people, ideas, and opinions are valued within your Team/Customers and external partners. Respect and take into consideration diversity within your Team/Customers and external work partners by valuing different world views, challenges, and cultures that represent all walks of life and all backgrounds. Treat others with respect and consideration. Actively participate in creating and contributing to a positive work environment.\n\nEqual Employment Opportunity \n\nNiSource is committed to providing equal employment opportunities in each of its companies to all employees and applicants for employment without regard to race, color, religion, national origin or ancestry, veteran status, disability, gender, age, marital status, sexual orientation, gender identity, genetic information, or any protected group status as defined by law. Each employee is expected to abide by this principle.\n\nSafety Statement\n\nPromote a safe work environment by actively participating in all aspects of our employee safety program.  Report any unsafe conditions and take actions to prevent personal injuries.  Support our interdependent safety culture by ensuring the safety of your co-workers.  Stay focused on the task at hand and promote productivity through good work habits.\n\n#Remote #WomenInUtilites #OhioMeansJobs #DataProduct #Cloud #WomenInTech\n\nWork Authorization\n\nAuthorized to work in the United States without requiring sponsorship.\n\nInclusion & Diversity\nValue inclusion within your day to day responsibilities by respecting others perspectives/convictions, engaging others opinions, creating a safe environment where people, ideas, and opinions are valued within your Team/Customers and external partners.\n\nRespect and take into consideration diversity within your Team/Customers and external work partners by valuing different world views, challenges, and cultures that represent all walks of life and all backgrounds.\n\nTreat others with respect and consideration. Actively participate in creating and contributing to a positive work environment.\n\nEqual Employment Opportunity\nNiSource is committed to providing equal employment opportunities in each of its companies to all employees and applicants for employment without regard to race, color, religion, national origin or ancestry, veteran status, disability, gender, age, marital status, sexual orientation, gender identity, sex (including pregnancy, lactation, childbirth or related medical conditions), genetic information, citizenship status, or any protected group status as defined by law. Each employee is expected to abide by this principle.\n\nBy applying, you may be considered for other job opportunities.\n\nSafety Statement\nPromote a safe work environment by actively participating in all aspects of our employee safety program. Report any unsafe conditions and take actions to prevent personal injuries. Support our interdependent safety culture by ensuring the safety of your co-workers. Stay focused on the task at hand and promote productivity through good work habits.\n\nSalary Range:\n$125,800.00 - $188,600.00\n\nPosting Start Date:\n2024-08-02\n\nPosting End Date (if applicable):\n\nPlease note that the job posting will close on the day before the posting end date.\n\nSummary\nThe Data Product Manager leads a team that is responsible for ensuring that the NiSource central Data Lakehouse is designed and developed as one source of the truth that will support current and future analytics uses cases. The manager works closely with IT and with data & analytics teams to ensure that data is collected, transformed, and curated in adherence to design, development and data governance standards and policies. The ideal candidate has an in-depth knowledge and understanding of data architecture and database concepts in the Azure Cloud platform. The Data Product Manager provides strong and inclusive leadership in a manner that engages employees, establishes a culture of trust and accountability, and creates a strong pipeline of talent.",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1722556800,
+      "job_posted_at_datetime_utc": "2024-08-02T00:00:00.000Z",
+      "job_city": "Merrillville",
+      "job_state": "IN",
+      "job_country": "US",
+      "job_latitude": 41.482815,
+      "job_longitude": -87.33282,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3DvNMhj8siprsFZwRbAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": null,
+      "job_offer_expiration_timestamp": null,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": "84",
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": null,
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "true",
+        "degree_preferred": "false",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Qualifications": [
+          "You must possess the below minimum qualifications to be initially considered for this position",
+          "Bachelor’s degree or equivalent work experience",
+          "7+ years of experience in a data analytics capacity",
+          "3+ years of experience utilizing SQL, data modeling principles (including star schema design), and data architecture",
+          "2+ years of experience leading teams",
+          "Authorized to work in the United States without requiring sponsorship",
+          "The ideal candidate has an in-depth knowledge and understanding of data architecture and database concepts in the Azure Cloud platform"
+        ],
+        "Responsibilities": [
+          "The Data Product Manager leads a team that is responsible for ensuring that the NiSource central Data Lakehouse is designed and developed as one source of the truth that will support current and future analytics uses cases",
+          "The manager works closely with IT and with data & analytics teams to ensure that data is collected, transformed, and curated in adherence to design, development and data governance standards and policies",
+          "Develops, publishes, and monitors adherence to design standards for the NiSource enterprise data lake and legacy on premise data warehouse repositories",
+          "Develops a roadmap to support the collection, transformation, and curation of data that is required to support planned and emerging analytics needs",
+          "In partnership with IT and Business subject matter experts, advises mapping specifications for the IT team to follow in the development of the data lake",
+          "Ensures that lineage is documented in the enterprise business glossary",
+          "Serves as a product owner for the IT Data Lake development team to develop a backlog and prioritize requirements",
+          "Contributes to the overall strategy of their organization.  ",
+          "Partners with IT to develop strategies for and ensure the health of tools, platforms and processes that enable access to data for the purposes of analytics (e.g. vendor/license management, technology roadmaps, steady state support, administration).    ",
+          "Hires, trains & evaluates a team of 2-3 data and analytics professionals.    ",
+          "Works with staff to develop performance and professional development plans and measures performance based on established criteria for the team.  ",
+          "Recommends solutions to stay abreast of current business and market trends and best practices and data and analytics",
+          "Report any unsafe conditions and take actions to prevent personal injuries"
+        ],
+        "Benefits": [
+          "Salary: $125,800 - $188,600, plus annual bonus"
+        ]
+      },
+      "job_job_title": null,
+      "job_posting_language": "en",
+      "job_onet_soc": "19209900",
+      "job_onet_job_zone": "5",
+      "job_occupational_categories": null,
+      "job_naics_code": null,
+      "job_naics_name": null
+    },
+    {
+      "job_id": "4B4dV2zbZCnLWV5GAAAAAA==",
+      "employer_name": "Addison Group",
+      "employer_logo": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0VJtk8VYL1pQk7jW8UFV5jiM6VnYBN9efcCFf&s=0",
+      "employer_website": null,
+      "employer_company_type": "Staffing",
+      "employer_linkedin": null,
+      "job_publisher": "Addison Group",
+      "job_employment_type": "FULLTIME",
+      "job_title": "Technical Solutions Analyst - Remote",
+      "job_apply_link": "https://addisongroup.com/jobs/job/technical-solutions-analyst-remote-information-technology-las-vegas-nv-a1qpl000000z29lyaa/866026e0-6090-11ef-9d14-42010a8a0ff7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+      "job_apply_is_direct": false,
+      "job_apply_quality_score": 0.7634,
+      "apply_options": [
+        {
+          "publisher": "Addison Group",
+          "apply_link": "https://addisongroup.com/jobs/job/technical-solutions-analyst-remote-information-technology-las-vegas-nv-a1qpl000000z29lyaa/866026e0-6090-11ef-9d14-42010a8a0ff7?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "LinkedIn",
+          "apply_link": "https://www.linkedin.com/jobs/view/technical-solutions-analyst-remote-at-addison-group-4007559802?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobcase",
+          "apply_link": "https://www.jobcase.com/jobs/view/n/U-115338458717?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobilize",
+          "apply_link": "https://www.jobilize.com/job/us-nv-las-vegas-technical-solutions-analyst-remote-addison-group-hiring?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        },
+        {
+          "publisher": "Jobrapido.com",
+          "apply_link": "https://us.jobrapido.com/jobpreview/3338080602?utm_campaign=google_jobs_apply&utm_source=google_jobs_apply&utm_medium=organic",
+          "is_direct": false
+        }
+      ],
+      "job_description": "Title: Technical Solutions Analyst - Remote US\n\nLocation: Remote US\n\nSalary: $100-120K + Bonus\n\nNo sponsorship available\n\nThe Technical Solutions Analyst is a pivotal member of our Product Engineering team, collaborating closely with Product, Engineering, and Business stakeholders. You will lead the process of eliciting, analyzing, and validating business requirements, translating them into meticulous technical specifications for implementation by our IT teams. This role thrives in a fast-paced environment, requires a continuous learning mindset, and demands autonomy. Occasional after-hours support may be necessary.\n\nThis position reports directly to the VP of Engineering. We welcome strong remote candidates, with occasional travel to Las Vegas as needed. Position Responsibilities\n\n• Apply deep technical expertise to translate business needs into precise software engineering specifications.\n\n• Collaborate with Technical Product Owners, Product Managers, and Engineering teams to ensure solutions meet Acceptance Criteria and business requirements.\n\n• Create User Stories, Acceptance Criteria, Data/Process Flow Diagrams, and other detailed Technical Requirements documentation.\n\n• Analyze in-house and third-party software solutions to interpret and define needs for integrating new technology into existing systems or deploying new systems independently.\n\n• Maintain comprehensive knowledge of application functionality and business workflows within assigned product families.\n\n• Participate actively in Agile Engineering ceremonies, including standups, refinement, release planning, demos, and retrospectives.\n\n• Lead the triage of incoming production support requests.\n\n• Perform other duties or tasks as assigned. Desired Skills and Experience\n\n• Bachelor’s degree in computer science or 7+ years of equivalent hands-on software development experience.\n\n• Minimum of 3 years of recent experience as the primary author of User Stories, Acceptance Criteria, and related technical details in an Agile software engineering environment.\n\n• Expertise in web application, database, and API design and architecture.\n\n• Experience with Postman or Swagger for API endpoint interactions.\n\n• Proficiency in T-SQL for querying database objects.\n\n• Proficiency in JIRA and Confluence for managing SCRUM/Agile projects and documentation.\n\n• Proficiency with Lucid (or similar) to create and review data and process flows.\n\n• Working knowledge of Figma for reviewing UI designs.\n\n• Advanced proficiency with O365 tools, including Excel and PowerPoint.\n\n• Strong team collaboration skills, professional demeanor, and approachability.\n\n• Experience collaborating with onshore and offshore development teams.\n\n• Creative problem-solving skills with a drive for innovation in solutions, systems, and processes.\n\n• Effective communication and presentation skills with stakeholders across the organization.\n\n• Ability to quickly grasp and synthesize information from diverse sources to understand various business processes.\n\nIND 005-010",
+      "job_is_remote": false,
+      "job_posted_at_timestamp": 1724202000,
+      "job_posted_at_datetime_utc": "2024-08-21T01:00:00.000Z",
+      "job_city": "Las Vegas",
+      "job_state": "NV",
+      "job_country": "US",
+      "job_latitude": 36.171562,
+      "job_longitude": -115.1391,
+      "job_benefits": null,
+      "job_google_link": "https://www.google.com/search?gl=us&hl=en&rciv=jb&q=remote&start=0&udm=8#vhid=vt%3D20/docid%3D4B4dV2zbZCnLWV5GAAAAAA%3D%3D&vssid=jobs-detail-viewer",
+      "job_offer_expiration_datetime_utc": "2025-08-21T02:00:00.000Z",
+      "job_offer_expiration_timestamp": 1755741600,
+      "job_required_experience": {
+        "no_experience_required": "false",
+        "required_experience_in_months": "84",
+        "experience_mentioned": "true",
+        "experience_preferred": "false"
+      },
+      "job_required_skills": [
+        "Information Technology"
+      ],
+      "job_required_education": {
+        "postgraduate_degree": false,
+        "professional_certification": false,
+        "high_school": false,
+        "associates_degree": false,
+        "bachelors_degree": false,
+        "degree_mentioned": "true",
+        "degree_preferred": "true",
+        "professional_certification_mentioned": "false"
+      },
+      "job_experience_in_place_of_education": false,
+      "job_min_salary": null,
+      "job_max_salary": null,
+      "job_salary_currency": null,
+      "job_salary_period": null,
+      "job_highlights": {
+        "Responsibilities": [
+          "You will lead the process of eliciting, analyzing, and validating business requirements, translating them into meticulous technical specifications for implementation by our IT teams",
+          "This role thrives in a fast-paced environment, requires a continuous learning mindset, and demands autonomy",
+          "Occasional after-hours support may be necessary",
+          "Apply deep technical expertise to translate business needs into precise software engineering specifications",
+          "Collaborate with Technical Product Owners, Product Managers, and Engineering teams to ensure solutions meet Acceptance Criteria and business requirements",
+          "Create User Stories, Acceptance Criteria, Data/Process Flow Diagrams, and other detailed Technical Requirements documentation",
+          "Analyze in-house and third-party software solutions to interpret and define needs for integrating new technology into existing systems or deploying new systems independently",
+          "Maintain comprehensive knowledge of application functionality and business workflows within assigned product families",
+          "Participate actively in Agile Engineering ceremonies, including standups, refinement, release planning, demos, and retrospectives",
+          "Lead the triage of incoming production support requests",
+          "Perform other duties or tasks as assigned"
+        ],
+        "Benefits": [
+          "Salary: $100-120K + Bonus",
+          "No sponsorship available"
+        ]
+      },
+      "job_job_title": "Solutions analyst",
+      "job_posting_language": "en",
+      "job_onet_soc": "43911100",
+      "job_onet_job_zone": "4",
+      "job_occupational_categories": null,
+      "job_naics_code": "561311",
+      "job_naics_name": "Employment Placement Agencies"
+    }
+  ]
+}
