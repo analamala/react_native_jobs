@@ -29,11 +29,13 @@
     "react-native-screens": "3.31.1",
     "react-native-web": "~0.19.6",
     "typescript": "~5.3.3",
-    "@types/react": "~18.2.79"
+    "@types/react": "~18.2.79",
+    "expo-secure-store": "~13.0.2"
   },
   "devDependencies": {
     "@babel/core": "^7.20.0",
-    "@react-navigation/native": "^6.1.18"
+    "@react-navigation/native": "^6.1.18",
+    "@react-navigation/native-stack": "^6.11.0"
   },
   "private": true
 }
