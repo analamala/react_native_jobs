@@ -1,6 +1,6 @@
 import {createContext, useContext, useEffect, useState} from "react";
 import axios from "axios";
-import * as SecureStore from 'expo-secure-store';
+import storageUtil from "../utils/storage";
 
 interface AuthProps {
   authState?: { token: string | null, authenticated: boolean | null };
@@ -33,7 +33,7 @@ export const AuthProvider = ({children}: any) => {
   // login again.
   useEffect(() => {
     const loadToken = async () => {
-      const token = await SecureStore.getItemAsync(TOKEN_KEY);
+      const token = await storageUtil.getItem(TOKEN_KEY);
       console.log('stored:', token);
       if (token) {
         axios.defaults.headers.common['Authorization'] = `Bearer ${token}`;
@@ -72,7 +72,7 @@ export const AuthProvider = ({children}: any) => {
 
       // NOTE: secure way to store the token. It gets checked on app startup and forwards the user
       // to login page if not already logged in.
-      await SecureStore.setItemAsync(TOKEN_KEY, result.data.token);
+      await storageUtil.setItem(TOKEN_KEY, result.data.token);
       return result;
     } catch (e) {
       return {error: true, msg: (e as any).response.data.msg};
@@ -85,7 +85,7 @@ export const AuthProvider = ({children}: any) => {
    */
   const logout = async () => {
     // Delete token from storage
-    await SecureStore.deleteItemAsync(TOKEN_KEY);
+    await storageUtil.deleteItem(TOKEN_KEY);
 
     // Update HTTP Headers
     axios.defaults.headers.common['Authorization'] = '';

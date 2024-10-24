@@ -1,9 +1,11 @@
 import {DrawerContentScrollView, DrawerItem, DrawerItemList} from "@react-navigation/drawer";
 import {useRouter} from "expo-router";
 import {Image, Text, View} from "react-native";
-import {images} from "../../constants";
+import {images} from "../constants";
+import {useAuth} from "./AuthContext";
 
 const DrawerMenu = (props) => {
+  const {authState, onLogout} = useAuth();
   const router = useRouter();
 
   return (
@@ -48,7 +50,7 @@ const DrawerMenu = (props) => {
           paddingBottom: 20
         }}
       >
-        <Text onPress={() => router.push('/logout')}>Logout</Text>
+        <Text onPress={onLogout}>Logout</Text>
       </View>
     </View>
   )

@@ -1,5 +1,5 @@
 import { Stack, useRouter, useLocalSearchParams } from "expo-router";
-import { useCallback, useState } from "react";
+import {useCallback, useEffect, useState} from "react";
 import {
   View,
   Text,
@@ -38,6 +38,12 @@ const JobDetails = () => {
     refetch()
     setRefreshing(false)
   }, []);
+
+  // NOTE: Ideally, this below block should not be needed. But useFetch is not loading
+  // as expected for the same route with different id's. The below block enforces new fetch
+  useEffect(() => {
+    refetch();
+  }, [params.id]);
 
 
   const displayTabContent = () => {

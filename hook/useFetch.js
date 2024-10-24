@@ -44,6 +44,7 @@ const useFetch = (endpoint, query) => {
                     response.data.data = [mockRespConcat.find(job => {
                         return query.job_id === job.job_id
                     })];
+                    console.log(response.data.data);
                 }
                 setData(response.data.data);
                 setIsLoading(false);
